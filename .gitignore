@@ -1,0 +1,8 @@
+# Accounts and settings created on each computer. Never commit these.
+app_data/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/

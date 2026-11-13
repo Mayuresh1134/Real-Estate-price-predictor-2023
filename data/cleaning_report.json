@@ -1,0 +1,20 @@
+{
+  "raw_rows": 29451,
+  "duplicates_removed": 1177,
+  "outliers_removed": 352,
+  "bad_coordinates_blanked": 251,
+  "clean_rows": 27922,
+  "cities": 251,
+  "localities": 6200,
+  "limits": {
+    "area_sqft": [
+      200,
+      10000
+    ],
+    "price_per_sqft": [
+      1200,
+      60000
+    ],
+    "max_bhk": 8
+  }
+}

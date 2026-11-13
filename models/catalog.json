@@ -1,0 +1,5204 @@
+{
+ "total_listings": 27922,
+ "total_cities": 251,
+ "cities": {
+  "Agra": {
+   "listings": 78,
+   "median_ppsf": 2915,
+   "median_price": 3500000,
+   "median_area": 1250,
+   "localities": {
+    "Dayal Bagh": {
+     "listings": 6,
+     "median_ppsf": 3101
+    },
+    "Fatehabad Road": {
+     "listings": 6,
+     "median_ppsf": 2442
+    },
+    "Shastripuram": {
+     "listings": 12,
+     "median_ppsf": 2381
+    },
+    "Sikandra": {
+     "listings": 13,
+     "median_ppsf": 2592
+    }
+   }
+  },
+  "Ahmednagar": {
+   "listings": 24,
+   "median_ppsf": 3455,
+   "median_price": 2200000,
+   "median_area": 746,
+   "localities": {}
+  },
+  "Ajmer": {
+   "listings": 21,
+   "median_ppsf": 2790,
+   "median_price": 3500000,
+   "median_area": 1219,
+   "localities": {
+    "Kotra": {
+     "listings": 7,
+     "median_ppsf": 2790
+    }
+   }
+  },
+  "Allahabad": {
+   "listings": 49,
+   "median_ppsf": 4020,
+   "median_price": 4290000,
+   "median_area": 1074,
+   "localities": {
+    "Naini": {
+     "listings": 8,
+     "median_ppsf": 3119
+    },
+    "Sulem Sarai": {
+     "listings": 7,
+     "median_ppsf": 4000
+    },
+    "jhusi": {
+     "listings": 5,
+     "median_ppsf": 3789
+    }
+   }
+  },
+  "Amravati": {
+   "listings": 28,
+   "median_ppsf": 3636,
+   "median_price": 3350000,
+   "median_area": 900,
+   "localities": {}
+  },
+  "Anand": {
+   "listings": 44,
+   "median_ppsf": 2111,
+   "median_price": 2550000,
+   "median_area": 1200,
+   "localities": {
+    "Karamsad": {
+     "listings": 11,
+     "median_ppsf": 2084
+    },
+    "Vallabh Vidhyanagar": {
+     "listings": 5,
+     "median_ppsf": 2500
+    },
+    "Vallabh Vidyanagar": {
+     "listings": 7,
+     "median_ppsf": 2000
+    }
+   }
+  },
+  "Asansol": {
+   "listings": 35,
+   "median_ppsf": 2363,
+   "median_price": 2380000,
+   "median_area": 1014,
+   "localities": {}
+  },
+  "Aurangabad": {
+   "listings": 65,
+   "median_ppsf": 3438,
+   "median_price": 2800000,
+   "median_area": 760,
+   "localities": {
+    "Beed Bypass Road": {
+     "listings": 5,
+     "median_ppsf": 3273
+    },
+    "Padegaon": {
+     "listings": 5,
+     "median_ppsf": 2333
+    },
+    "Satara Parisar": {
+     "listings": 5,
+     "median_ppsf": 3100
+    }
+   }
+  },
+  "Bahadurgarh": {
+   "listings": 48,
+   "median_ppsf": 2773,
+   "median_price": 3850000,
+   "median_area": 1338,
+   "localities": {
+    "Sector-15 Bahadurgarh": {
+     "listings": 29,
+     "median_ppsf": 2631
+    },
+    "Sector-37 Bahadurgarh": {
+     "listings": 9,
+     "median_ppsf": 4314
+    },
+    "Sector-4A Bahadurgarh": {
+     "listings": 6,
+     "median_ppsf": 2588
+    }
+   }
+  },
+  "Bangalore": {
+   "listings": 4237,
+   "median_ppsf": 5755,
+   "median_price": 7600000,
+   "median_area": 1315,
+   "localities": {
+    "1st Block Jayanagar": {
+     "listings": 6,
+     "median_ppsf": 15361
+    },
+    "1st Block Koramangala": {
+     "listings": 5,
+     "median_ppsf": 6428
+    },
+    "1st Phase JP Nagar": {
+     "listings": 7,
+     "median_ppsf": 8772
+    },
+    "2nd Phase Judicial Layout": {
+     "listings": 8,
+     "median_ppsf": 4441
+    },
+    "5th Phase JP Nagar": {
+     "listings": 9,
+     "median_ppsf": 5588
+    },
+    "6th Phase JP Nagar": {
+     "listings": 15,
+     "median_ppsf": 5616
+    },
+    "7th Phase JP Nagar": {
+     "listings": 46,
+     "median_ppsf": 6880
+    },
+    "8th Phase JP Nagar": {
+     "listings": 18,
+     "median_ppsf": 5439
+    },
+    "9th Phase JP Nagar": {
+     "listings": 8,
+     "median_ppsf": 4924
+    },
+    "Abbigere": {
+     "listings": 7,
+     "median_ppsf": 4491
+    },
+    "Akshaya Nagar": {
+     "listings": 65,
+     "median_ppsf": 5494
+    },
+    "Akshayanagara East": {
+     "listings": 6,
+     "median_ppsf": 5184
+    },
+    "Ambalipura": {
+     "listings": 16,
+     "median_ppsf": 7530
+    },
+    "Ambedkar Nagar": {
+     "listings": 9,
+     "median_ppsf": 6884
+    },
+    "Amruthahalli": {
+     "listings": 11,
+     "median_ppsf": 5000
+    },
+    "Ananth Nagar": {
+     "listings": 15,
+     "median_ppsf": 3296
+    },
+    "Anekal": {
+     "listings": 10,
+     "median_ppsf": 3495
+    },
+    "Anjanapura": {
+     "listings": 9,
+     "median_ppsf": 4195
+    },
+    "Ardendale": {
+     "listings": 7,
+     "median_ppsf": 5819
+    },
+    "Ashirvad Colony": {
+     "listings": 8,
+     "median_ppsf": 4831
+    },
+    "Attibele": {
+     "listings": 14,
+     "median_ppsf": 3358
+    },
+    "BEML Layout": {
+     "listings": 6,
+     "median_ppsf": 5300
+    },
+    "BTM 2nd Stage": {
+     "listings": 12,
+     "median_ppsf": 6747
+    },
+    "BTM Layout": {
+     "listings": 6,
+     "median_ppsf": 6050
+    },
+    "Babusapalaya": {
+     "listings": 5,
+     "median_ppsf": 3714
+    },
+    "Bagalur": {
+     "listings": 7,
+     "median_ppsf": 7600
+    },
+    "Balagere": {
+     "listings": 16,
+     "median_ppsf": 7440
+    },
+    "Banashankari": {
+     "listings": 19,
+     "median_ppsf": 6349
+    },
+    "Banashankari Stage V": {
+     "listings": 5,
+     "median_ppsf": 4150
+    },
+    "Banaswadi": {
+     "listings": 7,
+     "median_ppsf": 5603
+    },
+    "Banjara Layout": {
+     "listings": 5,
+     "median_ppsf": 3900
+    },
+    "Bannerghatta": {
+     "listings": 11,
+     "median_ppsf": 8897
+    },
+    "Bannerghatta Road": {
+     "listings": 27,
+     "median_ppsf": 6254
+    },
+    "Basapura": {
+     "listings": 9,
+     "median_ppsf": 3786
+    },
+    "Basavangudi": {
+     "listings": 8,
+     "median_ppsf": 12501
+    },
+    "Begur": {
+     "listings": 22,
+     "median_ppsf": 4205
+    },
+    "Begur Road": {
+     "listings": 28,
+     "median_ppsf": 6539
+    },
+    "Belatur": {
+     "listings": 6,
+     "median_ppsf": 3600
+    },
+    "Bellandur": {
+     "listings": 36,
+     "median_ppsf": 6286
+    },
+    "Bhoganhalli": {
+     "listings": 8,
+     "median_ppsf": 8972
+    },
+    "Bileshivale": {
+     "listings": 12,
+     "median_ppsf": 4075
+    },
+    "Billekahalli": {
+     "listings": 13,
+     "median_ppsf": 6071
+    },
+    "Binny Pete": {
+     "listings": 22,
+     "median_ppsf": 10326
+    },
+    "Bommanahalli": {
+     "listings": 21,
+     "median_ppsf": 4714
+    },
+    "Bommasandra": {
+     "listings": 6,
+     "median_ppsf": 3345
+    },
+    "Brookefield": {
+     "listings": 16,
+     "median_ppsf": 5345
+    },
+    "Budigere": {
+     "listings": 28,
+     "median_ppsf": 5593
+    },
+    "Budigere Cross": {
+     "listings": 12,
+     "median_ppsf": 5825
+    },
+    "Byagadadhenahalli": {
+     "listings": 7,
+     "median_ppsf": 4274
+    },
+    "CV Raman Nagar": {
+     "listings": 13,
+     "median_ppsf": 6666
+    },
+    "Celebrity Paradise Layout": {
+     "listings": 7,
+     "median_ppsf": 4561
+    },
+    "Chandapura": {
+     "listings": 28,
+     "median_ppsf": 3686
+    },
+    "Chandra Layout": {
+     "listings": 5,
+     "median_ppsf": 4600
+    },
+    "Channasandra": {
+     "listings": 5,
+     "median_ppsf": 4823
+    },
+    "Devanahalli": {
+     "listings": 26,
+     "median_ppsf": 5234
+    },
+    "Dodda Nekkundi": {
+     "listings": 5,
+     "median_ppsf": 5291
+    },
+    "Doddaballapur": {
+     "listings": 6,
+     "median_ppsf": 4028
+    },
+    "Doddakallasandra": {
+     "listings": 12,
+     "median_ppsf": 5327
+    },
+    "Doddakannelli": {
+     "listings": 14,
+     "median_ppsf": 6894
+    },
+    "Doddathoguru": {
+     "listings": 11,
+     "median_ppsf": 3820
+    },
+    "Dollars Colony": {
+     "listings": 6,
+     "median_ppsf": 10562
+    },
+    "EPIP Zone": {
+     "listings": 15,
+     "median_ppsf": 8612
+    },
+    "Electronic City": {
+     "listings": 61,
+     "median_ppsf": 4000
+    },
+    "Electronic City Phase II": {
+     "listings": 29,
+     "median_ppsf": 5653
+    },
+    "Electronics City Phase 1": {
+     "listings": 83,
+     "median_ppsf": 5384
+    },
+    "Frazer Town": {
+     "listings": 10,
+     "median_ppsf": 12325
+    },
+    "Gollahalli": {
+     "listings": 6,
+     "median_ppsf": 3609
+    },
+    "Gopalapura": {
+     "listings": 6,
+     "median_ppsf": 12742
+    },
+    "Gottigere": {
+     "listings": 12,
+     "median_ppsf": 4392
+    },
+    "Green Glen Layout": {
+     "listings": 6,
+     "median_ppsf": 6705
+    },
+    "Gubbalala": {
+     "listings": 10,
+     "median_ppsf": 4593
+    },
+    "Gunjur": {
+     "listings": 14,
+     "median_ppsf": 4331
+    },
+    "Gunjur Palya": {
+     "listings": 5,
+     "median_ppsf": 4117
+    },
+    "HSR Layout": {
+     "listings": 17,
+     "median_ppsf": 7591
+    },
+    "Harlur": {
+     "listings": 26,
+     "median_ppsf": 6715
+    },
+    "Harlur Road": {
+     "listings": 19,
+     "median_ppsf": 6179
+    },
+    "Hebbal": {
+     "listings": 78,
+     "median_ppsf": 8725
+    },
+    "Hebbal Kempapura": {
+     "listings": 13,
+     "median_ppsf": 8352
+    },
+    "Hegde Nagar": {
+     "listings": 9,
+     "median_ppsf": 6104
+    },
+    "Hennur": {
+     "listings": 10,
+     "median_ppsf": 5628
+    },
+    "Hennur Road": {
+     "listings": 34,
+     "median_ppsf": 6228
+    },
+    "Hoodi": {
+     "listings": 20,
+     "median_ppsf": 6265
+    },
+    "Horamavu": {
+     "listings": 23,
+     "median_ppsf": 4501
+    },
+    "Horamavu Agara": {
+     "listings": 27,
+     "median_ppsf": 4043
+    },
+    "Hosa Road": {
+     "listings": 24,
+     "median_ppsf": 5673
+    },
+    "Hosakerehalli": {
+     "listings": 5,
+     "median_ppsf": 9017
+    },
+    "Hoskote": {
+     "listings": 7,
+     "median_ppsf": 3537
+    },
+    "Hosur Road": {
+     "listings": 11,
+     "median_ppsf": 7162
+    },
+    "Hoysalanagar": {
+     "listings": 6,
+     "median_ppsf": 4004
+    },
+    "Hulimavu": {
+     "listings": 15,
+     "median_ppsf": 5500
+    },
+    "ITPL": {
+     "listings": 8,
+     "median_ppsf": 8258
+    },
+    "Iblur Village": {
+     "listings": 15,
+     "median_ppsf": 8064
+    },
+    "Indira Nagar": {
+     "listings": 7,
+     "median_ppsf": 13181
+    },
+    "JP Nagar": {
+     "listings": 23,
+     "median_ppsf": 6969
+    },
+    "Jakkur": {
+     "listings": 32,
+     "median_ppsf": 7095
+    },
+    "Jalahalli": {
+     "listings": 21,
+     "median_ppsf": 6500
+    },
+    "Jayanagar": {
+     "listings": 7,
+     "median_ppsf": 9500
+    },
+    "Jigani": {
+     "listings": 12,
+     "median_ppsf": 4357
+    },
+    "KR Puram": {
+     "listings": 31,
+     "median_ppsf": 4739
+    },
+    "Kadugodi": {
+     "listings": 27,
+     "median_ppsf": 4866
+    },
+    "Kaggadasapura": {
+     "listings": 20,
+     "median_ppsf": 4953
+    },
+    "Kaggalipura": {
+     "listings": 5,
+     "median_ppsf": 5053
+    },
+    "Kaikondrahalli": {
+     "listings": 8,
+     "median_ppsf": 6841
+    },
+    "Kalena Agrahara": {
+     "listings": 20,
+     "median_ppsf": 5933
+    },
+    "Kalkere": {
+     "listings": 5,
+     "median_ppsf": 4672
+    },
+    "Kalyan nagar": {
+     "listings": 5,
+     "median_ppsf": 5588
+    },
+    "Kammasandra": {
+     "listings": 8,
+     "median_ppsf": 3003
+    },
+    "Kanakapura": {
+     "listings": 15,
+     "median_ppsf": 5758
+    },
+    "Kanakpura Road": {
+     "listings": 44,
+     "median_ppsf": 6272
+    },
+    "Kannamangala": {
+     "listings": 12,
+     "median_ppsf": 5656
+    },
+    "Kasavanhalli": {
+     "listings": 37,
+     "median_ppsf": 5765
+    },
+    "Kasturi Nagar": {
+     "listings": 9,
+     "median_ppsf": 6046
+    },
+    "Kenchenahalli": {
+     "listings": 7,
+     "median_ppsf": 4834
+    },
+    "Kengeri": {
+     "listings": 13,
+     "median_ppsf": 4320
+    },
+    "Kereguddadahalli": {
+     "listings": 6,
+     "median_ppsf": 3343
+    },
+    "Kodbisanhalli": {
+     "listings": 7,
+     "median_ppsf": 9907
+    },
+    "Kodichikkanahalli": {
+     "listings": 7,
+     "median_ppsf": 4908
+    },
+    "Kodigehaali": {
+     "listings": 8,
+     "median_ppsf": 4901
+    },
+    "Kodigehalli": {
+     "listings": 6,
+     "median_ppsf": 4907
+    },
+    "Kogilu": {
+     "listings": 9,
+     "median_ppsf": 6898
+    },
+    "Konanakunte": {
+     "listings": 60,
+     "median_ppsf": 8671
+    },
+    "Koramangala": {
+     "listings": 15,
+     "median_ppsf": 11275
+    },
+    "Kothanur": {
+     "listings": 9,
+     "median_ppsf": 5172
+    },
+    "Kudlu": {
+     "listings": 7,
+     "median_ppsf": 4691
+    },
+    "Kudlu Gate": {
+     "listings": 7,
+     "median_ppsf": 6584
+    },
+    "Kundalahalli": {
+     "listings": 8,
+     "median_ppsf": 6855
+    },
+    "LB Shastri Nagar": {
+     "listings": 5,
+     "median_ppsf": 4260
+    },
+    "Lakshminarayana Pura": {
+     "listings": 6,
+     "median_ppsf": 7344
+    },
+    "Magadi Road": {
+     "listings": 8,
+     "median_ppsf": 4603
+    },
+    "Mahadevpura": {
+     "listings": 14,
+     "median_ppsf": 7633
+    },
+    "Mahalakshmi Layout": {
+     "listings": 6,
+     "median_ppsf": 8277
+    },
+    "Malleshpalya": {
+     "listings": 8,
+     "median_ppsf": 4799
+    },
+    "Malleshwaram": {
+     "listings": 11,
+     "median_ppsf": 8928
+    },
+    "Manyata Tech Park": {
+     "listings": 10,
+     "median_ppsf": 7136
+    },
+    "Marathahalli": {
+     "listings": 25,
+     "median_ppsf": 6229
+    },
+    "Munnekollal": {
+     "listings": 8,
+     "median_ppsf": 5349
+    },
+    "Mylasandra": {
+     "listings": 5,
+     "median_ppsf": 4480
+    },
+    "Mysore Road": {
+     "listings": 23,
+     "median_ppsf": 5497
+    },
+    "NRI Layout": {
+     "listings": 9,
+     "median_ppsf": 4500
+    },
+    "Nagarbhavi": {
+     "listings": 45,
+     "median_ppsf": 4600
+    },
+    "Nagavarapalya": {
+     "listings": 7,
+     "median_ppsf": 4350
+    },
+    "Nallurhalli": {
+     "listings": 5,
+     "median_ppsf": 5427
+    },
+    "Narayanapura": {
+     "listings": 11,
+     "median_ppsf": 6267
+    },
+    "Navodaya Nagar": {
+     "listings": 6,
+     "median_ppsf": 6598
+    },
+    "Neeladri Nagar": {
+     "listings": 7,
+     "median_ppsf": 4333
+    },
+    "Nelamangala": {
+     "listings": 8,
+     "median_ppsf": 5099
+    },
+    "New Thippasandra": {
+     "listings": 5,
+     "median_ppsf": 6696
+    },
+    "OMBR Layout": {
+     "listings": 5,
+     "median_ppsf": 6255
+    },
+    "Old Madras Road": {
+     "listings": 11,
+     "median_ppsf": 5800
+    },
+    "Padmanabhanagar": {
+     "listings": 9,
+     "median_ppsf": 8978
+    },
+    "Pai Layout": {
+     "listings": 5,
+     "median_ppsf": 4485
+    },
+    "Panathur": {
+     "listings": 19,
+     "median_ppsf": 5992
+    },
+    "Pattandur Agrahara": {
+     "listings": 5,
+     "median_ppsf": 5555
+    },
+    "R.T. Nagar": {
+     "listings": 8,
+     "median_ppsf": 5810
+    },
+    "RMV Extension": {
+     "listings": 7,
+     "median_ppsf": 7121
+    },
+    "Rachenahalli": {
+     "listings": 20,
+     "median_ppsf": 5501
+    },
+    "Rajaji Nagar": {
+     "listings": 58,
+     "median_ppsf": 12419
+    },
+    "Rajarajeshwari Nagar": {
+     "listings": 45,
+     "median_ppsf": 5403
+    },
+    "Ramagondanahalli": {
+     "listings": 10,
+     "median_ppsf": 7251
+    },
+    "Ramamurthy Nagar": {
+     "listings": 18,
+     "median_ppsf": 4388
+    },
+    "Rayasandra": {
+     "listings": 15,
+     "median_ppsf": 4730
+    },
+    "Rustam Bagh Layout": {
+     "listings": 5,
+     "median_ppsf": 6096
+    },
+    "Sahakara Nagar": {
+     "listings": 20,
+     "median_ppsf": 5523
+    },
+    "Sarjapur": {
+     "listings": 28,
+     "median_ppsf": 3774
+    },
+    "Sarjapur Road": {
+     "listings": 87,
+     "median_ppsf": 6114
+    },
+    "Sarjapura - Attibele Road": {
+     "listings": 8,
+     "median_ppsf": 3816
+    },
+    "Sathya Sai Layout": {
+     "listings": 5,
+     "median_ppsf": 9227
+    },
+    "Sector 2 HSR Layout": {
+     "listings": 7,
+     "median_ppsf": 6274
+    },
+    "Seegehalli": {
+     "listings": 7,
+     "median_ppsf": 4428
+    },
+    "Seshadripuram": {
+     "listings": 5,
+     "median_ppsf": 7422
+    },
+    "Shikaripalya": {
+     "listings": 5,
+     "median_ppsf": 5466
+    },
+    "Shree Ananth Nagar Layout": {
+     "listings": 8,
+     "median_ppsf": 2891
+    },
+    "Siddapura": {
+     "listings": 9,
+     "median_ppsf": 7593
+    },
+    "Sidedahalli": {
+     "listings": 5,
+     "median_ppsf": 2923
+    },
+    "Singasandra": {
+     "listings": 9,
+     "median_ppsf": 4996
+    },
+    "Suraksha Nagar": {
+     "listings": 42,
+     "median_ppsf": 5651
+    },
+    "TC Palaya": {
+     "listings": 7,
+     "median_ppsf": 4416
+    },
+    "Talaghattapura": {
+     "listings": 9,
+     "median_ppsf": 8571
+    },
+    "Thanisandra": {
+     "listings": 107,
+     "median_ppsf": 6220
+    },
+    "Thanisandra Main Road": {
+     "listings": 5,
+     "median_ppsf": 5579
+    },
+    "Thubarahalli": {
+     "listings": 18,
+     "median_ppsf": 5528
+    },
+    "Tumkur Road": {
+     "listings": 15,
+     "median_ppsf": 6031
+    },
+    "Uttarahalli": {
+     "listings": 33,
+     "median_ppsf": 4570
+    },
+    "Vajarahalli": {
+     "listings": 8,
+     "median_ppsf": 3625
+    },
+    "Varthur": {
+     "listings": 30,
+     "median_ppsf": 5334
+    },
+    "Varthur Road": {
+     "listings": 6,
+     "median_ppsf": 6319
+    },
+    "Vasantha Vallabha Nagar": {
+     "listings": 8,
+     "median_ppsf": 7211
+    },
+    "Vidyaranyapura": {
+     "listings": 5,
+     "median_ppsf": 5145
+    },
+    "Vignana Nagar": {
+     "listings": 7,
+     "median_ppsf": 4227
+    },
+    "Vijaya Bank Layout": {
+     "listings": 6,
+     "median_ppsf": 4329
+    },
+    "Vijayanagar": {
+     "listings": 8,
+     "median_ppsf": 5309
+    },
+    "Volagerekallahalli": {
+     "listings": 5,
+     "median_ppsf": 4126
+    },
+    "Whitefield": {
+     "listings": 220,
+     "median_ppsf": 6796
+    },
+    "Wilson Garden": {
+     "listings": 6,
+     "median_ppsf": 8463
+    },
+    "Yelahanka": {
+     "listings": 76,
+     "median_ppsf": 5240
+    },
+    "Yemlur": {
+     "listings": 16,
+     "median_ppsf": 8844
+    },
+    "Yeshwanthpur": {
+     "listings": 29,
+     "median_ppsf": 8142
+    }
+   }
+  },
+  "Bharuch": {
+   "listings": 42,
+   "median_ppsf": 2190,
+   "median_price": 2000000,
+   "median_area": 1017,
+   "localities": {
+    "Ankleshwar": {
+     "listings": 11,
+     "median_ppsf": 1646
+    },
+    "Zadeshwar": {
+     "listings": 5,
+     "median_ppsf": 2685
+    }
+   }
+  },
+  "Bhavnagar": {
+   "listings": 28,
+   "median_ppsf": 2500,
+   "median_price": 2225000,
+   "median_area": 825,
+   "localities": {}
+  },
+  "Bhilai": {
+   "listings": 38,
+   "median_ppsf": 1988,
+   "median_price": 2300000,
+   "median_area": 1125,
+   "localities": {
+    "Junwani": {
+     "listings": 11,
+     "median_ppsf": 1921
+    },
+    "Nehru Nagar": {
+     "listings": 6,
+     "median_ppsf": 2142
+    },
+    "Smriti Nagar": {
+     "listings": 6,
+     "median_ppsf": 1687
+    }
+   }
+  },
+  "Bhiwadi": {
+   "listings": 160,
+   "median_ppsf": 2404,
+   "median_price": 2500000,
+   "median_area": 1111,
+   "localities": {
+    "Alwar Bhiwadi Road": {
+     "listings": 13,
+     "median_ppsf": 2609
+    },
+    "Alwar Bypass Road": {
+     "listings": 67,
+     "median_ppsf": 2450
+    },
+    "Milakpur Goojar": {
+     "listings": 14,
+     "median_ppsf": 2298
+    },
+    "Sector - 51 Bhiwadi": {
+     "listings": 6,
+     "median_ppsf": 2696
+    },
+    "Tapukara": {
+     "listings": 23,
+     "median_ppsf": 2000
+    },
+    "Thara": {
+     "listings": 20,
+     "median_ppsf": 1927
+    },
+    "UIT": {
+     "listings": 7,
+     "median_ppsf": 2489
+    }
+   }
+  },
+  "Bhopal": {
+   "listings": 217,
+   "median_ppsf": 2556,
+   "median_price": 2600000,
+   "median_area": 1000,
+   "localities": {
+    "Arera Colony": {
+     "listings": 6,
+     "median_ppsf": 2813
+    },
+    "Awadhpuri": {
+     "listings": 5,
+     "median_ppsf": 2818
+    },
+    "Ayodhya Bypass": {
+     "listings": 8,
+     "median_ppsf": 2682
+    },
+    "Bagmugaliya": {
+     "listings": 6,
+     "median_ppsf": 2758
+    },
+    "Banjari": {
+     "listings": 5,
+     "median_ppsf": 2666
+    },
+    "Bawadia Kalan": {
+     "listings": 11,
+     "median_ppsf": 2963
+    },
+    "Gulmohar Colony": {
+     "listings": 8,
+     "median_ppsf": 2441
+    },
+    "Hoshangabad Road": {
+     "listings": 14,
+     "median_ppsf": 2635
+    },
+    "Katara Hills": {
+     "listings": 28,
+     "median_ppsf": 2104
+    },
+    "Kolar Road": {
+     "listings": 13,
+     "median_ppsf": 2447
+    },
+    "Mahawadiya": {
+     "listings": 6,
+     "median_ppsf": 1831
+    },
+    "Misrod": {
+     "listings": 5,
+     "median_ppsf": 2606
+    },
+    "Saket Nagar": {
+     "listings": 5,
+     "median_ppsf": 2666
+    },
+    "Salaiya": {
+     "listings": 5,
+     "median_ppsf": 2117
+    }
+   }
+  },
+  "Bhubaneswar": {
+   "listings": 229,
+   "median_ppsf": 4000,
+   "median_price": 5220000,
+   "median_area": 1300,
+   "localities": {
+    "Hanspal": {
+     "listings": 10,
+     "median_ppsf": 3417
+    },
+    "Kalinganagar": {
+     "listings": 15,
+     "median_ppsf": 4742
+    },
+    "Khandagiri": {
+     "listings": 15,
+     "median_ppsf": 4400
+    },
+    "Madanpur": {
+     "listings": 7,
+     "median_ppsf": 3999
+    },
+    "Pahala": {
+     "listings": 5,
+     "median_ppsf": 4520
+    },
+    "Patia": {
+     "listings": 37,
+     "median_ppsf": 4286
+    },
+    "Phulnakhara": {
+     "listings": 6,
+     "median_ppsf": 3750
+    },
+    "Raghunathpur": {
+     "listings": 5,
+     "median_ppsf": 5704
+    },
+    "Sundarpada": {
+     "listings": 24,
+     "median_ppsf": 2804
+    },
+    "Tamando": {
+     "listings": 8,
+     "median_ppsf": 2979
+    }
+   }
+  },
+  "Bilaspur": {
+   "listings": 21,
+   "median_ppsf": 2631,
+   "median_price": 3000000,
+   "median_area": 1160,
+   "localities": {}
+  },
+  "Chandigarh": {
+   "listings": 654,
+   "median_ppsf": 3546,
+   "median_price": 5700000,
+   "median_area": 1600,
+   "localities": {
+    "Dera Bassi": {
+     "listings": 37,
+     "median_ppsf": 2686
+    },
+    "Manimajra": {
+     "listings": 8,
+     "median_ppsf": 5784
+    },
+    "Mohali": {
+     "listings": 6,
+     "median_ppsf": 3437
+    },
+    "Mullanpur": {
+     "listings": 18,
+     "median_ppsf": 3871
+    },
+    "New Chandigarh": {
+     "listings": 16,
+     "median_ppsf": 3544
+    },
+    "Sector-48 Chandigarh": {
+     "listings": 8,
+     "median_ppsf": 7682
+    },
+    "Sector-49 Chandigarh": {
+     "listings": 23,
+     "median_ppsf": 6750
+    },
+    "Sector-63 Chandigarh": {
+     "listings": 9,
+     "median_ppsf": 6577
+    },
+    "Zirakpur": {
+     "listings": 474,
+     "median_ppsf": 3477
+    }
+   }
+  },
+  "Chennai": {
+   "listings": 1227,
+   "median_ppsf": 5047,
+   "median_price": 4990000,
+   "median_area": 982,
+   "localities": {
+    "Alwarthirunagar": {
+     "listings": 5,
+     "median_ppsf": 8972
+    },
+    "Ambattur": {
+     "listings": 19,
+     "median_ppsf": 4761
+    },
+    "Anakaputhur": {
+     "listings": 8,
+     "median_ppsf": 4048
+    },
+    "Anna Nagar West": {
+     "listings": 9,
+     "median_ppsf": 7995
+    },
+    "Avadi": {
+     "listings": 11,
+     "median_ppsf": 3691
+    },
+    "Ayanambakkam": {
+     "listings": 8,
+     "median_ppsf": 5258
+    },
+    "Ayappakkam": {
+     "listings": 5,
+     "median_ppsf": 4640
+    },
+    "Chitlapakkam": {
+     "listings": 5,
+     "median_ppsf": 4900
+    },
+    "Chromepet": {
+     "listings": 15,
+     "median_ppsf": 5185
+    },
+    "ECR": {
+     "listings": 6,
+     "median_ppsf": 4600
+    },
+    "Guduvancheri": {
+     "listings": 34,
+     "median_ppsf": 3903
+    },
+    "Hastinapuram": {
+     "listings": 5,
+     "median_ppsf": 5048
+    },
+    "Iyyappanthangal": {
+     "listings": 9,
+     "median_ppsf": 4528
+    },
+    "Kandigai": {
+     "listings": 6,
+     "median_ppsf": 3590
+    },
+    "Kannan Colony": {
+     "listings": 5,
+     "median_ppsf": 10286
+    },
+    "Karapakkam": {
+     "listings": 19,
+     "median_ppsf": 6598
+    },
+    "Kattupakkam": {
+     "listings": 16,
+     "median_ppsf": 4522
+    },
+    "Kazhipattur": {
+     "listings": 5,
+     "median_ppsf": 4510
+    },
+    "Kelambakkam": {
+     "listings": 7,
+     "median_ppsf": 3943
+    },
+    "Kolapakkam": {
+     "listings": 7,
+     "median_ppsf": 4625
+    },
+    "Korattur": {
+     "listings": 12,
+     "median_ppsf": 6180
+    },
+    "Kovilambakkam": {
+     "listings": 11,
+     "median_ppsf": 5500
+    },
+    "Kovur": {
+     "listings": 13,
+     "median_ppsf": 5050
+    },
+    "Koyambedu": {
+     "listings": 7,
+     "median_ppsf": 7868
+    },
+    "Kundrathur": {
+     "listings": 8,
+     "median_ppsf": 3917
+    },
+    "Kundrathur High Road": {
+     "listings": 5,
+     "median_ppsf": 3869
+    },
+    "Madambakkam": {
+     "listings": 11,
+     "median_ppsf": 4390
+    },
+    "Madhavaram": {
+     "listings": 10,
+     "median_ppsf": 4718
+    },
+    "Madipakkam": {
+     "listings": 6,
+     "median_ppsf": 5756
+    },
+    "Mahindra City": {
+     "listings": 5,
+     "median_ppsf": 4151
+    },
+    "Manapakkam": {
+     "listings": 12,
+     "median_ppsf": 5388
+    },
+    "Mangadu": {
+     "listings": 5,
+     "median_ppsf": 3970
+    },
+    "Maraimalai Nagar": {
+     "listings": 11,
+     "median_ppsf": 3958
+    },
+    "Medavakkam": {
+     "listings": 32,
+     "median_ppsf": 4867
+    },
+    "Mogappair": {
+     "listings": 9,
+     "median_ppsf": 7763
+    },
+    "Mogappair West": {
+     "listings": 10,
+     "median_ppsf": 6546
+    },
+    "Nallambakkam": {
+     "listings": 5,
+     "median_ppsf": 3142
+    },
+    "Nanmangalam": {
+     "listings": 9,
+     "median_ppsf": 4900
+    },
+    "Navalur": {
+     "listings": 7,
+     "median_ppsf": 4787
+    },
+    "New perungalathur": {
+     "listings": 9,
+     "median_ppsf": 4045
+    },
+    "OMR": {
+     "listings": 5,
+     "median_ppsf": 4359
+    },
+    "Old Perungalathur": {
+     "listings": 6,
+     "median_ppsf": 4143
+    },
+    "Oragadam": {
+     "listings": 12,
+     "median_ppsf": 3828
+    },
+    "Padappai": {
+     "listings": 5,
+     "median_ppsf": 3339
+    },
+    "Padur": {
+     "listings": 14,
+     "median_ppsf": 4461
+    },
+    "Pallavaram": {
+     "listings": 20,
+     "median_ppsf": 5558
+    },
+    "Pallikaranai": {
+     "listings": 20,
+     "median_ppsf": 5330
+    },
+    "Pammal": {
+     "listings": 12,
+     "median_ppsf": 4637
+    },
+    "Paruthipet": {
+     "listings": 6,
+     "median_ppsf": 3427
+    },
+    "Periyapanicheri": {
+     "listings": 5,
+     "median_ppsf": 4100
+    },
+    "Perumbakkam": {
+     "listings": 22,
+     "median_ppsf": 4855
+    },
+    "Perungalathur": {
+     "listings": 7,
+     "median_ppsf": 5002
+    },
+    "Perungudi": {
+     "listings": 8,
+     "median_ppsf": 8459
+    },
+    "Poonamallee": {
+     "listings": 20,
+     "median_ppsf": 4161
+    },
+    "Porur": {
+     "listings": 39,
+     "median_ppsf": 5925
+    },
+    "Potheri": {
+     "listings": 11,
+     "median_ppsf": 3900
+    },
+    "Pudupakkam Village": {
+     "listings": 6,
+     "median_ppsf": 3767
+    },
+    "Selaiyur": {
+     "listings": 7,
+     "median_ppsf": 4515
+    },
+    "Sholinganallur": {
+     "listings": 32,
+     "median_ppsf": 5300
+    },
+    "Siruseri": {
+     "listings": 9,
+     "median_ppsf": 5000
+    },
+    "Tambaram": {
+     "listings": 7,
+     "median_ppsf": 4242
+    },
+    "Thaiyur": {
+     "listings": 9,
+     "median_ppsf": 3969
+    },
+    "Thalambur": {
+     "listings": 10,
+     "median_ppsf": 5047
+    },
+    "Thiruporur": {
+     "listings": 7,
+     "median_ppsf": 3378
+    },
+    "Thoraipakkam": {
+     "listings": 13,
+     "median_ppsf": 7499
+    },
+    "Urapakkam": {
+     "listings": 6,
+     "median_ppsf": 4371
+    },
+    "Vadapalani": {
+     "listings": 6,
+     "median_ppsf": 9625
+    },
+    "Valasaravakkam": {
+     "listings": 15,
+     "median_ppsf": 7935
+    },
+    "Vanagaram": {
+     "listings": 10,
+     "median_ppsf": 5150
+    },
+    "Velachery": {
+     "listings": 9,
+     "median_ppsf": 7000
+    },
+    "Vengaivasal": {
+     "listings": 10,
+     "median_ppsf": 4080
+    }
+   }
+  },
+  "Coimbatore": {
+   "listings": 145,
+   "median_ppsf": 4530,
+   "median_price": 5320000,
+   "median_area": 1219,
+   "localities": {
+    "Ganapathy": {
+     "listings": 8,
+     "median_ppsf": 4462
+    },
+    "Kovaipudur": {
+     "listings": 5,
+     "median_ppsf": 3166
+    },
+    "R.S.Puram": {
+     "listings": 5,
+     "median_ppsf": 5453
+    },
+    "Ramanathapuram": {
+     "listings": 5,
+     "median_ppsf": 4807
+    },
+    "Saibaba Colony": {
+     "listings": 8,
+     "median_ppsf": 5896
+    },
+    "Saravanampatti": {
+     "listings": 9,
+     "median_ppsf": 4000
+    },
+    "Singanallur": {
+     "listings": 5,
+     "median_ppsf": 4830
+    },
+    "Vadavalli": {
+     "listings": 16,
+     "median_ppsf": 4235
+    }
+   }
+  },
+  "Dehradun": {
+   "listings": 128,
+   "median_ppsf": 4116,
+   "median_price": 6250000,
+   "median_area": 1500,
+   "localities": {
+    "G.M.S Road": {
+     "listings": 7,
+     "median_ppsf": 4007
+    },
+    "Haridwar-Dehradun Road": {
+     "listings": 8,
+     "median_ppsf": 4289
+    },
+    "Kulhan": {
+     "listings": 10,
+     "median_ppsf": 3789
+    },
+    "Malsi": {
+     "listings": 6,
+     "median_ppsf": 4253
+    },
+    "Mussoorie Road": {
+     "listings": 12,
+     "median_ppsf": 4200
+    },
+    "Niranjanpur": {
+     "listings": 6,
+     "median_ppsf": 3950
+    },
+    "Race Course": {
+     "listings": 5,
+     "median_ppsf": 4722
+    },
+    "Sahastradhara": {
+     "listings": 7,
+     "median_ppsf": 3568
+    },
+    "Sahastradhara Road": {
+     "listings": 9,
+     "median_ppsf": 3889
+    }
+   }
+  },
+  "Dhanbad": {
+   "listings": 30,
+   "median_ppsf": 2484,
+   "median_price": 3075000,
+   "median_area": 1253,
+   "localities": {
+    "Hirapur": {
+     "listings": 5,
+     "median_ppsf": 2760
+    },
+    "Saraidhela": {
+     "listings": 5,
+     "median_ppsf": 2500
+    }
+   }
+  },
+  "Dharuhera": {
+   "listings": 61,
+   "median_ppsf": 2430,
+   "median_price": 3350000,
+   "median_area": 1300,
+   "localities": {
+    "NH-8": {
+     "listings": 30,
+     "median_ppsf": 2595
+    },
+    "Sector - 1 Dharuhera": {
+     "listings": 9,
+     "median_ppsf": 2302
+    },
+    "Sector - 22 Dharuhera": {
+     "listings": 5,
+     "median_ppsf": 3793
+    },
+    "Sector-24 Dharuhera": {
+     "listings": 11,
+     "median_ppsf": 2208
+    }
+   }
+  },
+  "Durgapur": {
+   "listings": 55,
+   "median_ppsf": 2300,
+   "median_price": 2100000,
+   "median_area": 935,
+   "localities": {
+    "Benachity": {
+     "listings": 5,
+     "median_ppsf": 2900
+    },
+    "Bidhannagar": {
+     "listings": 16,
+     "median_ppsf": 2201
+    },
+    "Muchipara": {
+     "listings": 6,
+     "median_ppsf": 1703
+    }
+   }
+  },
+  "Ernakulam": {
+   "listings": 46,
+   "median_ppsf": 4303,
+   "median_price": 5000000,
+   "median_area": 1266,
+   "localities": {
+    "Thrippunithura": {
+     "listings": 5,
+     "median_ppsf": 4037
+    }
+   }
+  },
+  "Faridabad": {
+   "listings": 624,
+   "median_ppsf": 3599,
+   "median_price": 4750000,
+   "median_area": 1339,
+   "localities": {
+    "Charmwood Village": {
+     "listings": 10,
+     "median_ppsf": 7389
+    },
+    "Greenfield Colony": {
+     "listings": 6,
+     "median_ppsf": 3417
+    },
+    "Sector 43 Faridabad": {
+     "listings": 5,
+     "median_ppsf": 5480
+    },
+    "Sector 45 Faridabad": {
+     "listings": 8,
+     "median_ppsf": 3366
+    },
+    "Sector 48 Faridabad": {
+     "listings": 5,
+     "median_ppsf": 3235
+    },
+    "Sector 70 Faridabad": {
+     "listings": 16,
+     "median_ppsf": 3112
+    },
+    "Sector 75 Faridabad": {
+     "listings": 31,
+     "median_ppsf": 2924
+    },
+    "Sector 77 Faridabad": {
+     "listings": 36,
+     "median_ppsf": 2831
+    },
+    "Sector 78 Faridabad": {
+     "listings": 28,
+     "median_ppsf": 3293
+    },
+    "Sector 80 Faridabad": {
+     "listings": 42,
+     "median_ppsf": 3575
+    },
+    "Sector 81 Faridabad": {
+     "listings": 27,
+     "median_ppsf": 4838
+    },
+    "Sector 82 Faridabad": {
+     "listings": 64,
+     "median_ppsf": 3626
+    },
+    "Sector 84 Faridabad": {
+     "listings": 56,
+     "median_ppsf": 3751
+    },
+    "Sector 85 Faridabad": {
+     "listings": 15,
+     "median_ppsf": 3170
+    },
+    "Sector 86 Faridabad": {
+     "listings": 94,
+     "median_ppsf": 3412
+    },
+    "Sector 88 Faridabad": {
+     "listings": 93,
+     "median_ppsf": 3599
+    },
+    "Sector 89 Faridabad": {
+     "listings": 18,
+     "median_ppsf": 3035
+    },
+    "Suraj Kund": {
+     "listings": 19,
+     "median_ppsf": 7143
+    }
+   }
+  },
+  "Gandhinagar": {
+   "listings": 114,
+   "median_ppsf": 3260,
+   "median_price": 3800000,
+   "median_area": 1165,
+   "localities": {
+    "Kalol": {
+     "listings": 11,
+     "median_ppsf": 3493
+    },
+    "Koba": {
+     "listings": 5,
+     "median_ppsf": 3259
+    },
+    "Kudasan": {
+     "listings": 20,
+     "median_ppsf": 3566
+    },
+    "Sargasan": {
+     "listings": 31,
+     "median_ppsf": 3199
+    },
+    "Sughad": {
+     "listings": 9,
+     "median_ppsf": 2842
+    },
+    "Vavol": {
+     "listings": 8,
+     "median_ppsf": 2974
+    }
+   }
+  },
+  "Ghaziabad": {
+   "listings": 1060,
+   "median_ppsf": 3920,
+   "median_price": 4475000,
+   "median_area": 1199,
+   "localities": {
+    "Ahinsa Khand 1": {
+     "listings": 40,
+     "median_ppsf": 6306
+    },
+    "Ahinsa Khand 2": {
+     "listings": 54,
+     "median_ppsf": 4146
+    },
+    "Ankur Vihar": {
+     "listings": 13,
+     "median_ppsf": 2536
+    },
+    "Bhopura": {
+     "listings": 45,
+     "median_ppsf": 2798
+    },
+    "Crossing Republik": {
+     "listings": 69,
+     "median_ppsf": 3042
+    },
+    "Dilshad Plaza": {
+     "listings": 6,
+     "median_ppsf": 2739
+    },
+    "Govind Puram": {
+     "listings": 13,
+     "median_ppsf": 3425
+    },
+    "Indirapuram": {
+     "listings": 62,
+     "median_ppsf": 5000
+    },
+    "Judges Enclave": {
+     "listings": 8,
+     "median_ppsf": 4606
+    },
+    "Kaushambi": {
+     "listings": 14,
+     "median_ppsf": 5443
+    },
+    "Lal Kuan": {
+     "listings": 17,
+     "median_ppsf": 3148
+    },
+    "Madhuban Bapudham": {
+     "listings": 10,
+     "median_ppsf": 3241
+    },
+    "Mehrauli": {
+     "listings": 6,
+     "median_ppsf": 3374
+    },
+    "Mohan Nagar": {
+     "listings": 8,
+     "median_ppsf": 4668
+    },
+    "NH-24 Highway": {
+     "listings": 39,
+     "median_ppsf": 3240
+    },
+    "Nyay Khand 2": {
+     "listings": 5,
+     "median_ppsf": 4722
+    },
+    "Pratap Vihar": {
+     "listings": 6,
+     "median_ppsf": 3951
+    },
+    "Raj Nagar Extension": {
+     "listings": 212,
+     "median_ppsf": 3137
+    },
+    "Ramprastha Greens": {
+     "listings": 18,
+     "median_ppsf": 8595
+    },
+    "Sahibabad": {
+     "listings": 16,
+     "median_ppsf": 4510
+    },
+    "Sector-1 Vaishali": {
+     "listings": 16,
+     "median_ppsf": 5226
+    },
+    "Sector-18 Vasundhara": {
+     "listings": 5,
+     "median_ppsf": 5200
+    },
+    "Sector-3 Vaishali": {
+     "listings": 12,
+     "median_ppsf": 6077
+    },
+    "Sector-4 Vaishali": {
+     "listings": 16,
+     "median_ppsf": 5725
+    },
+    "Sector-5 Vaishali": {
+     "listings": 11,
+     "median_ppsf": 5859
+    },
+    "Shahpur Bamheta": {
+     "listings": 8,
+     "median_ppsf": 3931
+    },
+    "Shalimar Garden Extension I": {
+     "listings": 6,
+     "median_ppsf": 3280
+    },
+    "Shalimar Garden Extension II": {
+     "listings": 7,
+     "median_ppsf": 3529
+    },
+    "Shalimar garden": {
+     "listings": 16,
+     "median_ppsf": 3095
+    },
+    "Siddhartha Vihar": {
+     "listings": 21,
+     "median_ppsf": 4545
+    },
+    "Vaibhav Khand": {
+     "listings": 65,
+     "median_ppsf": 4945
+    },
+    "Vaishali": {
+     "listings": 8,
+     "median_ppsf": 5853
+    },
+    "Vasundhara": {
+     "listings": 9,
+     "median_ppsf": 5309
+    },
+    "Wave City": {
+     "listings": 8,
+     "median_ppsf": 3360
+    }
+   }
+  },
+  "Goa": {
+   "listings": 141,
+   "median_ppsf": 5419,
+   "median_price": 5700000,
+   "median_area": 1076,
+   "localities": {
+    "Arpora": {
+     "listings": 5,
+     "median_ppsf": 7128
+    },
+    "Calangute": {
+     "listings": 11,
+     "median_ppsf": 6387
+    },
+    "Dona Paula": {
+     "listings": 7,
+     "median_ppsf": 7651
+    },
+    "Mapusa": {
+     "listings": 9,
+     "median_ppsf": 5081
+    },
+    "Porvorim": {
+     "listings": 12,
+     "median_ppsf": 5902
+    },
+    "Siolim": {
+     "listings": 5,
+     "median_ppsf": 6003
+    }
+   }
+  },
+  "Guntur": {
+   "listings": 32,
+   "median_ppsf": 3417,
+   "median_price": 4150000,
+   "median_area": 1200,
+   "localities": {
+    "Gorantla": {
+     "listings": 6,
+     "median_ppsf": 3162
+    }
+   }
+  },
+  "Gurgaon": {
+   "listings": 408,
+   "median_ppsf": 6887,
+   "median_price": 14000000,
+   "median_area": 2051,
+   "localities": {
+    "DLF CITY PHASE 2": {
+     "listings": 5,
+     "median_ppsf": 10833
+    },
+    "Sector-102 Gurgaon": {
+     "listings": 30,
+     "median_ppsf": 5671
+    },
+    "Sector-104 Gurgaon": {
+     "listings": 14,
+     "median_ppsf": 6192
+    },
+    "Sector-106 Gurgaon": {
+     "listings": 12,
+     "median_ppsf": 9244
+    },
+    "Sector-107 Gurgaon": {
+     "listings": 7,
+     "median_ppsf": 5400
+    },
+    "Sector-108 Gurgaon": {
+     "listings": 10,
+     "median_ppsf": 8454
+    },
+    "Sector-109 Gurgaon": {
+     "listings": 17,
+     "median_ppsf": 6858
+    },
+    "Sector-112 Gurgaon": {
+     "listings": 8,
+     "median_ppsf": 6569
+    },
+    "Sector-48 Gurgaon": {
+     "listings": 5,
+     "median_ppsf": 14174
+    },
+    "Sector-54 Gurgaon": {
+     "listings": 19,
+     "median_ppsf": 14598
+    },
+    "Sector-59 Gurgaon": {
+     "listings": 5,
+     "median_ppsf": 10787
+    },
+    "Sector-60 Gurgaon": {
+     "listings": 6,
+     "median_ppsf": 8531
+    },
+    "Sector-65 Gurgaon": {
+     "listings": 36,
+     "median_ppsf": 9900
+    },
+    "Sector-66 Gurgaon": {
+     "listings": 13,
+     "median_ppsf": 8814
+    },
+    "Sector-67 Gurgaon": {
+     "listings": 24,
+     "median_ppsf": 7505
+    },
+    "Sector-67A Gurgaon": {
+     "listings": 6,
+     "median_ppsf": 7593
+    },
+    "Sector-68 Gurgaon": {
+     "listings": 7,
+     "median_ppsf": 5922
+    },
+    "Sector-69 Gurgaon": {
+     "listings": 5,
+     "median_ppsf": 6527
+    },
+    "Sector-70 Gurgaon": {
+     "listings": 10,
+     "median_ppsf": 3999
+    },
+    "Sector-70A Gurgaon": {
+     "listings": 7,
+     "median_ppsf": 6324
+    },
+    "Sector-79 Gurgaon": {
+     "listings": 10,
+     "median_ppsf": 5802
+    },
+    "Sector-81 Gurgaon": {
+     "listings": 26,
+     "median_ppsf": 6815
+    },
+    "Sector-82 Gurgaon": {
+     "listings": 9,
+     "median_ppsf": 5189
+    },
+    "Sector-83 Gurgaon": {
+     "listings": 7,
+     "median_ppsf": 5581
+    },
+    "Sector-84 Gurgaon": {
+     "listings": 13,
+     "median_ppsf": 4498
+    },
+    "Sector-86 Gurgaon": {
+     "listings": 9,
+     "median_ppsf": 6351
+    },
+    "Sohna": {
+     "listings": 10,
+     "median_ppsf": 5469
+    },
+    "sector-58 Gurgaon": {
+     "listings": 5,
+     "median_ppsf": 10300
+    }
+   }
+  },
+  "Guwahati": {
+   "listings": 89,
+   "median_ppsf": 3995,
+   "median_price": 4500000,
+   "median_area": 1172,
+   "localities": {
+    "Jalukbari": {
+     "listings": 13,
+     "median_ppsf": 3500
+    },
+    "Kahilipara": {
+     "listings": 7,
+     "median_ppsf": 4000
+    },
+    "Lokhra": {
+     "listings": 8,
+     "median_ppsf": 4162
+    }
+   }
+  },
+  "Gwalior": {
+   "listings": 53,
+   "median_ppsf": 3312,
+   "median_price": 3500000,
+   "median_area": 1156,
+   "localities": {
+    "City Center": {
+     "listings": 13,
+     "median_ppsf": 2847
+    },
+    "Govindpuri": {
+     "listings": 7,
+     "median_ppsf": 3846
+    },
+    "Sirol": {
+     "listings": 5,
+     "median_ppsf": 2438
+    }
+   }
+  },
+  "Haridwar": {
+   "listings": 39,
+   "median_ppsf": 3149,
+   "median_price": 2850000,
+   "median_area": 870,
+   "localities": {
+    "Jwalapur": {
+     "listings": 10,
+     "median_ppsf": 3398
+    },
+    "Kankhal": {
+     "listings": 5,
+     "median_ppsf": 3541
+    }
+   }
+  },
+  "Hubli": {
+   "listings": 30,
+   "median_ppsf": 3080,
+   "median_price": 3050000,
+   "median_area": 1000,
+   "localities": {
+    "Keshwapur": {
+     "listings": 7,
+     "median_ppsf": 3125
+    }
+   }
+  },
+  "Indore": {
+   "listings": 300,
+   "median_ppsf": 2931,
+   "median_price": 3270000,
+   "median_area": 1106,
+   "localities": {
+    "AB Bypass Road": {
+     "listings": 5,
+     "median_ppsf": 2614
+    },
+    "AB Road indore": {
+     "listings": 5,
+     "median_ppsf": 2848
+    },
+    "Bicholi Hapsi": {
+     "listings": 5,
+     "median_ppsf": 3118
+    },
+    "Bicholi Mardana": {
+     "listings": 27,
+     "median_ppsf": 3128
+    },
+    "Dewas Naka(Panchvati)": {
+     "listings": 5,
+     "median_ppsf": 1800
+    },
+    "Kanadia Road": {
+     "listings": 6,
+     "median_ppsf": 2955
+    },
+    "Khajrana": {
+     "listings": 5,
+     "median_ppsf": 4000
+    },
+    "Mahalakshmi Nagar": {
+     "listings": 16,
+     "median_ppsf": 3102
+    },
+    "Nipania": {
+     "listings": 34,
+     "median_ppsf": 3422
+    },
+    "Pipaliyahana": {
+     "listings": 5,
+     "median_ppsf": 2647
+    },
+    "Piplya Kumar": {
+     "listings": 6,
+     "median_ppsf": 2844
+    },
+    "Rau": {
+     "listings": 5,
+     "median_ppsf": 2451
+    },
+    "Super Corridor": {
+     "listings": 7,
+     "median_ppsf": 2672
+    },
+    "Talawali Chanda": {
+     "listings": 12,
+     "median_ppsf": 2398
+    },
+    "Vijay Nagar": {
+     "listings": 12,
+     "median_ppsf": 3148
+    }
+   }
+  },
+  "Jabalpur": {
+   "listings": 34,
+   "median_ppsf": 3407,
+   "median_price": 3370000,
+   "median_area": 1150,
+   "localities": {
+    "Tilhari": {
+     "listings": 5,
+     "median_ppsf": 3509
+    }
+   }
+  },
+  "Jaipur": {
+   "listings": 941,
+   "median_ppsf": 3087,
+   "median_price": 3620000,
+   "median_area": 1250,
+   "localities": {
+    "Adarsh Nagar": {
+     "listings": 5,
+     "median_ppsf": 5651
+    },
+    "Ajmer Road": {
+     "listings": 96,
+     "median_ppsf": 2500
+    },
+    "Bani Park": {
+     "listings": 20,
+     "median_ppsf": 5097
+    },
+    "Bapu Nagar": {
+     "listings": 5,
+     "median_ppsf": 7466
+    },
+    "C-Scheme": {
+     "listings": 7,
+     "median_ppsf": 8500
+    },
+    "Chitrakoot": {
+     "listings": 18,
+     "median_ppsf": 3452
+    },
+    "Civil Lines": {
+     "listings": 6,
+     "median_ppsf": 7750
+    },
+    "Dadi Ka Phatak": {
+     "listings": 9,
+     "median_ppsf": 2105
+    },
+    "Gandhi Path": {
+     "listings": 29,
+     "median_ppsf": 2846
+    },
+    "Gopalpura Bypass": {
+     "listings": 7,
+     "median_ppsf": 3182
+    },
+    "Govindpura Kardhani Scheme": {
+     "listings": 5,
+     "median_ppsf": 3099
+    },
+    "J.L.N.Marg": {
+     "listings": 6,
+     "median_ppsf": 8250
+    },
+    "Jagatpura": {
+     "listings": 118,
+     "median_ppsf": 2800
+    },
+    "Jaisinghpura": {
+     "listings": 7,
+     "median_ppsf": 2677
+    },
+    "Jhotwara": {
+     "listings": 18,
+     "median_ppsf": 2582
+    },
+    "Kalwar Road": {
+     "listings": 25,
+     "median_ppsf": 1928
+    },
+    "Kamla Nehru Nagar": {
+     "listings": 5,
+     "median_ppsf": 2711
+    },
+    "Malviya Nagar": {
+     "listings": 17,
+     "median_ppsf": 4198
+    },
+    "Mangyawas": {
+     "listings": 7,
+     "median_ppsf": 2868
+    },
+    "Mansarovar": {
+     "listings": 73,
+     "median_ppsf": 3185
+    },
+    "Mansarovar Extension": {
+     "listings": 58,
+     "median_ppsf": 2984
+    },
+    "Muhana": {
+     "listings": 5,
+     "median_ppsf": 2399
+    },
+    "Murlipura": {
+     "listings": 12,
+     "median_ppsf": 3112
+    },
+    "Nandpuri": {
+     "listings": 5,
+     "median_ppsf": 4500
+    },
+    "Nirman Nagar": {
+     "listings": 18,
+     "median_ppsf": 3854
+    },
+    "Niwaru Road": {
+     "listings": 11,
+     "median_ppsf": 2375
+    },
+    "Patrakar Colony": {
+     "listings": 9,
+     "median_ppsf": 2741
+    },
+    "Pratap Nagar": {
+     "listings": 17,
+     "median_ppsf": 3800
+    },
+    "Ramnagariya": {
+     "listings": 5,
+     "median_ppsf": 3521
+    },
+    "Sanganer": {
+     "listings": 9,
+     "median_ppsf": 2800
+    },
+    "Shyam Nagar": {
+     "listings": 6,
+     "median_ppsf": 3929
+    },
+    "Sikar Road": {
+     "listings": 11,
+     "median_ppsf": 2740
+    },
+    "Sirsi Road": {
+     "listings": 15,
+     "median_ppsf": 3092
+    },
+    "Tonk Road": {
+     "listings": 14,
+     "median_ppsf": 3650
+    },
+    "Vaishali Nagar": {
+     "listings": 68,
+     "median_ppsf": 3800
+    },
+    "Vidhyadhar Nagar": {
+     "listings": 7,
+     "median_ppsf": 4405
+    }
+   }
+  },
+  "Jalandhar": {
+   "listings": 35,
+   "median_ppsf": 2937,
+   "median_price": 5000000,
+   "median_area": 1701,
+   "localities": {
+    "Pholriwal": {
+     "listings": 17,
+     "median_ppsf": 3006
+    }
+   }
+  },
+  "Jamnagar": {
+   "listings": 66,
+   "median_ppsf": 2528,
+   "median_price": 2595000,
+   "median_area": 1068,
+   "localities": {
+    "Khodiyar Colony": {
+     "listings": 8,
+     "median_ppsf": 2910
+    },
+    "Patel Colony": {
+     "listings": 10,
+     "median_ppsf": 2522
+    }
+   }
+  },
+  "Jamshedpur": {
+   "listings": 84,
+   "median_ppsf": 3244,
+   "median_price": 3925000,
+   "median_area": 1220,
+   "localities": {
+    "Adityapur": {
+     "listings": 22,
+     "median_ppsf": 3209
+    },
+    "Kadma": {
+     "listings": 7,
+     "median_ppsf": 3580
+    },
+    "Mango": {
+     "listings": 20,
+     "median_ppsf": 2909
+    },
+    "Sonari": {
+     "listings": 10,
+     "median_ppsf": 3750
+    },
+    "Telco Colony": {
+     "listings": 6,
+     "median_ppsf": 2518
+    }
+   }
+  },
+  "Jodhpur": {
+   "listings": 25,
+   "median_ppsf": 3523,
+   "median_price": 3500000,
+   "median_area": 975,
+   "localities": {}
+  },
+  "Kanpur": {
+   "listings": 88,
+   "median_ppsf": 4407,
+   "median_price": 5750000,
+   "median_area": 1300,
+   "localities": {
+    "Civil Lines": {
+     "listings": 5,
+     "median_ppsf": 6000
+    },
+    "Panki": {
+     "listings": 7,
+     "median_ppsf": 3312
+    },
+    "Ratan Lal Nagar": {
+     "listings": 5,
+     "median_ppsf": 3823
+    },
+    "Swaroop Nagar": {
+     "listings": 8,
+     "median_ppsf": 8658
+    }
+   }
+  },
+  "Karjat": {
+   "listings": 20,
+   "median_ppsf": 3281,
+   "median_price": 1935000,
+   "median_area": 582,
+   "localities": {}
+  },
+  "Kochi": {
+   "listings": 202,
+   "median_ppsf": 4748,
+   "median_price": 6700000,
+   "median_area": 1475,
+   "localities": {
+    "Aluva": {
+     "listings": 8,
+     "median_ppsf": 3823
+    },
+    "Edapally": {
+     "listings": 13,
+     "median_ppsf": 4960
+    },
+    "Infopark": {
+     "listings": 8,
+     "median_ppsf": 3898
+    },
+    "Kadavanthara": {
+     "listings": 6,
+     "median_ppsf": 6034
+    },
+    "Kakkanad": {
+     "listings": 44,
+     "median_ppsf": 4226
+    },
+    "Kaloor": {
+     "listings": 13,
+     "median_ppsf": 4826
+    },
+    "Marine Drive": {
+     "listings": 16,
+     "median_ppsf": 9203
+    },
+    "Palarivattom": {
+     "listings": 5,
+     "median_ppsf": 5100
+    },
+    "Thevara": {
+     "listings": 6,
+     "median_ppsf": 7703
+    },
+    "Tripunithura": {
+     "listings": 10,
+     "median_ppsf": 4737
+    },
+    "Vennala": {
+     "listings": 6,
+     "median_ppsf": 4186
+    },
+    "Vytilla": {
+     "listings": 8,
+     "median_ppsf": 5408
+    }
+   }
+  },
+  "Kolhapur": {
+   "listings": 33,
+   "median_ppsf": 4444,
+   "median_price": 3500000,
+   "median_area": 850,
+   "localities": {}
+  },
+  "Kolkata": {
+   "listings": 1678,
+   "median_ppsf": 4425,
+   "median_price": 4720000,
+   "median_area": 1100,
+   "localities": {
+    "Action Area I": {
+     "listings": 11,
+     "median_ppsf": 4800
+    },
+    "Action Area II": {
+     "listings": 15,
+     "median_ppsf": 5750
+    },
+    "Action Area IID": {
+     "listings": 8,
+     "median_ppsf": 4903
+    },
+    "Action Area III": {
+     "listings": 9,
+     "median_ppsf": 4799
+    },
+    "Action area 1A": {
+     "listings": 10,
+     "median_ppsf": 4840
+    },
+    "Airport": {
+     "listings": 13,
+     "median_ppsf": 3200
+    },
+    "Alipore": {
+     "listings": 12,
+     "median_ppsf": 13524
+    },
+    "Anandapur": {
+     "listings": 6,
+     "median_ppsf": 6108
+    },
+    "Bablatala": {
+     "listings": 7,
+     "median_ppsf": 5092
+    },
+    "Baguihati": {
+     "listings": 20,
+     "median_ppsf": 3335
+    },
+    "Ballygunge": {
+     "listings": 12,
+     "median_ppsf": 11001
+    },
+    "Ballygunge Place": {
+     "listings": 5,
+     "median_ppsf": 11000
+    },
+    "Bansdroni": {
+     "listings": 14,
+     "median_ppsf": 3630
+    },
+    "Barasat": {
+     "listings": 25,
+     "median_ppsf": 2659
+    },
+    "BataNagar": {
+     "listings": 14,
+     "median_ppsf": 3797
+    },
+    "Behala": {
+     "listings": 24,
+     "median_ppsf": 3514
+    },
+    "Behala Chowrasta": {
+     "listings": 11,
+     "median_ppsf": 4005
+    },
+    "Behala Manton": {
+     "listings": 5,
+     "median_ppsf": 4440
+    },
+    "Behala Thana": {
+     "listings": 5,
+     "median_ppsf": 3723
+    },
+    "Bhadrakali": {
+     "listings": 5,
+     "median_ppsf": 3636
+    },
+    "Bhawanipore": {
+     "listings": 8,
+     "median_ppsf": 9598
+    },
+    "Birati": {
+     "listings": 5,
+     "median_ppsf": 3069
+    },
+    "Brahmapur": {
+     "listings": 9,
+     "median_ppsf": 3112
+    },
+    "Chinar Park": {
+     "listings": 15,
+     "median_ppsf": 4700
+    },
+    "Chinsurah": {
+     "listings": 5,
+     "median_ppsf": 2640
+    },
+    "Dum Dum": {
+     "listings": 15,
+     "median_ppsf": 4470
+    },
+    "Dum Dum Cantt.": {
+     "listings": 5,
+     "median_ppsf": 3034
+    },
+    "E M Bypass": {
+     "listings": 45,
+     "median_ppsf": 6634
+    },
+    "Garfa": {
+     "listings": 6,
+     "median_ppsf": 4483
+    },
+    "Garia": {
+     "listings": 37,
+     "median_ppsf": 4009
+    },
+    "Gariahat": {
+     "listings": 6,
+     "median_ppsf": 11267
+    },
+    "Howrah": {
+     "listings": 7,
+     "median_ppsf": 4720
+    },
+    "Jadavpur": {
+     "listings": 13,
+     "median_ppsf": 6538
+    },
+    "Jessore Road": {
+     "listings": 23,
+     "median_ppsf": 5272
+    },
+    "Jodhpur Park": {
+     "listings": 8,
+     "median_ppsf": 9022
+    },
+    "Joka": {
+     "listings": 13,
+     "median_ppsf": 3692
+    },
+    "Kaikhali": {
+     "listings": 11,
+     "median_ppsf": 4000
+    },
+    "Kalikapur": {
+     "listings": 17,
+     "median_ppsf": 4570
+    },
+    "Kamalgazi": {
+     "listings": 5,
+     "median_ppsf": 3500
+    },
+    "Kasba": {
+     "listings": 13,
+     "median_ppsf": 5798
+    },
+    "Kestopur": {
+     "listings": 24,
+     "median_ppsf": 3452
+    },
+    "Khardah": {
+     "listings": 10,
+     "median_ppsf": 2800
+    },
+    "Konnagar": {
+     "listings": 7,
+     "median_ppsf": 2300
+    },
+    "Lake Gardens": {
+     "listings": 8,
+     "median_ppsf": 5751
+    },
+    "Lake Town": {
+     "listings": 9,
+     "median_ppsf": 5000
+    },
+    "Madhyamgram": {
+     "listings": 39,
+     "median_ppsf": 3080
+    },
+    "Madurdaha": {
+     "listings": 16,
+     "median_ppsf": 4188
+    },
+    "Mahamayatala": {
+     "listings": 6,
+     "median_ppsf": 3505
+    },
+    "Maheshtala": {
+     "listings": 45,
+     "median_ppsf": 3811
+    },
+    "Mominpore": {
+     "listings": 9,
+     "median_ppsf": 7200
+    },
+    "Mukundapur": {
+     "listings": 28,
+     "median_ppsf": 7261
+    },
+    "Nager Bazar": {
+     "listings": 9,
+     "median_ppsf": 3872
+    },
+    "Naktala": {
+     "listings": 6,
+     "median_ppsf": 4701
+    },
+    "Narayanpur": {
+     "listings": 5,
+     "median_ppsf": 3998
+    },
+    "Narendrapur": {
+     "listings": 23,
+     "median_ppsf": 4210
+    },
+    "Nayabad": {
+     "listings": 19,
+     "median_ppsf": 3503
+    },
+    "New Alipore": {
+     "listings": 17,
+     "median_ppsf": 7352
+    },
+    "New Barrakpur": {
+     "listings": 10,
+     "median_ppsf": 2245
+    },
+    "New Garia": {
+     "listings": 6,
+     "median_ppsf": 3629
+    },
+    "New Town": {
+     "listings": 128,
+     "median_ppsf": 5059
+    },
+    "Patuli": {
+     "listings": 6,
+     "median_ppsf": 4370
+    },
+    "Picnic Garden": {
+     "listings": 16,
+     "median_ppsf": 6038
+    },
+    "Prince Anwar Shah Rd.": {
+     "listings": 22,
+     "median_ppsf": 11341
+    },
+    "Rajarhat": {
+     "listings": 112,
+     "median_ppsf": 4094
+    },
+    "Rajpur": {
+     "listings": 15,
+     "median_ppsf": 3726
+    },
+    "Sakher Bazar": {
+     "listings": 14,
+     "median_ppsf": 3399
+    },
+    "Salt Lake": {
+     "listings": 23,
+     "median_ppsf": 6439
+    },
+    "Santoshpur": {
+     "listings": 8,
+     "median_ppsf": 5594
+    },
+    "Sector V - Salt Lake": {
+     "listings": 10,
+     "median_ppsf": 4354
+    },
+    "Shibrampur": {
+     "listings": 5,
+     "median_ppsf": 4134
+    },
+    "Sodepur": {
+     "listings": 29,
+     "median_ppsf": 3363
+    },
+    "Sonarpur": {
+     "listings": 10,
+     "median_ppsf": 3327
+    },
+    "Southern Avenue": {
+     "listings": 6,
+     "median_ppsf": 10415
+    },
+    "Tangra": {
+     "listings": 6,
+     "median_ppsf": 6586
+    },
+    "Teghoria": {
+     "listings": 9,
+     "median_ppsf": 4619
+    },
+    "Thakurpukur": {
+     "listings": 12,
+     "median_ppsf": 3426
+    },
+    "Tollygunge": {
+     "listings": 29,
+     "median_ppsf": 6255
+    },
+    "Uniworld City": {
+     "listings": 8,
+     "median_ppsf": 5805
+    },
+    "Uttarpara": {
+     "listings": 5,
+     "median_ppsf": 3143
+    }
+   }
+  },
+  "Kota": {
+   "listings": 41,
+   "median_ppsf": 3266,
+   "median_price": 4500000,
+   "median_area": 1350,
+   "localities": {
+    "Kunhari": {
+     "listings": 6,
+     "median_ppsf": 3466
+    }
+   }
+  },
+  "Lucknow": {
+   "listings": 318,
+   "median_ppsf": 3938,
+   "median_price": 5195000,
+   "median_area": 1299,
+   "localities": {
+    "Amar Shaheed Path": {
+     "listings": 14,
+     "median_ppsf": 4423
+    },
+    "Anora Kala": {
+     "listings": 6,
+     "median_ppsf": 3339
+    },
+    "Chinhat": {
+     "listings": 7,
+     "median_ppsf": 3459
+    },
+    "Faizabad Road": {
+     "listings": 27,
+     "median_ppsf": 3725
+    },
+    "Gomti Nagar": {
+     "listings": 8,
+     "median_ppsf": 4428
+    },
+    "Gomti Nagar Extension": {
+     "listings": 56,
+     "median_ppsf": 4294
+    },
+    "Jankipuram Extension": {
+     "listings": 10,
+     "median_ppsf": 3283
+    },
+    "Mahanagar": {
+     "listings": 5,
+     "median_ppsf": 9808
+    },
+    "Purseni": {
+     "listings": 5,
+     "median_ppsf": 2762
+    },
+    "Sultanpur Road": {
+     "listings": 10,
+     "median_ppsf": 2899
+    },
+    "Sushant Golf City": {
+     "listings": 29,
+     "median_ppsf": 3800
+    },
+    "Uttardhauna": {
+     "listings": 9,
+     "median_ppsf": 3400
+    },
+    "Vibhuti Khand": {
+     "listings": 7,
+     "median_ppsf": 6819
+    },
+    "Vrindavan Yojna": {
+     "listings": 13,
+     "median_ppsf": 4064
+    }
+   }
+  },
+  "Ludhiana": {
+   "listings": 30,
+   "median_ppsf": 4237,
+   "median_price": 7250000,
+   "median_area": 1603,
+   "localities": {
+    "Pakhowal Road": {
+     "listings": 11,
+     "median_ppsf": 4555
+    }
+   }
+  },
+  "Madurai": {
+   "listings": 32,
+   "median_ppsf": 4342,
+   "median_price": 4200000,
+   "median_area": 1025,
+   "localities": {}
+  },
+  "Mangalore": {
+   "listings": 120,
+   "median_ppsf": 4186,
+   "median_price": 5080000,
+   "median_area": 1244,
+   "localities": {
+    "Bejai": {
+     "listings": 5,
+     "median_ppsf": 5249
+    },
+    "Kadri": {
+     "listings": 8,
+     "median_ppsf": 4931
+    },
+    "Kodailbail": {
+     "listings": 5,
+     "median_ppsf": 5707
+    },
+    "Kulshekar": {
+     "listings": 14,
+     "median_ppsf": 3468
+    },
+    "Pandeshwar": {
+     "listings": 6,
+     "median_ppsf": 4582
+    }
+   }
+  },
+  "Meerut": {
+   "listings": 49,
+   "median_ppsf": 2587,
+   "median_price": 2900000,
+   "median_area": 1082,
+   "localities": {
+    "Ganga Nagar": {
+     "listings": 5,
+     "median_ppsf": 2237
+    },
+    "Modipuram": {
+     "listings": 8,
+     "median_ppsf": 2715
+    }
+   }
+  },
+  "Mohali": {
+   "listings": 529,
+   "median_ppsf": 3875,
+   "median_price": 5780000,
+   "median_area": 1500,
+   "localities": {
+    "Aerocity": {
+     "listings": 12,
+     "median_ppsf": 3370
+    },
+    "Dhakoli": {
+     "listings": 10,
+     "median_ppsf": 2770
+    },
+    "Guru Teg Bahadur Nagar": {
+     "listings": 8,
+     "median_ppsf": 1988
+    },
+    "Kharar": {
+     "listings": 35,
+     "median_ppsf": 2342
+    },
+    "Kharar-Landran Road": {
+     "listings": 6,
+     "median_ppsf": 2640
+    },
+    "Sas Nagar": {
+     "listings": 11,
+     "median_ppsf": 3221
+    },
+    "Sector-105 Mohali": {
+     "listings": 18,
+     "median_ppsf": 3341
+    },
+    "Sector-110 Mohali": {
+     "listings": 5,
+     "median_ppsf": 3337
+    },
+    "Sector-113 Mohali": {
+     "listings": 6,
+     "median_ppsf": 2689
+    },
+    "Sector-115 Mohali": {
+     "listings": 28,
+     "median_ppsf": 2192
+    },
+    "Sector-117 Mohali": {
+     "listings": 16,
+     "median_ppsf": 3309
+    },
+    "Sector-121 Mohali": {
+     "listings": 26,
+     "median_ppsf": 4328
+    },
+    "Sector-125 Mohali": {
+     "listings": 14,
+     "median_ppsf": 2483
+    },
+    "Sector-126 Mohali": {
+     "listings": 11,
+     "median_ppsf": 4093
+    },
+    "Sector-127 Mohali": {
+     "listings": 16,
+     "median_ppsf": 2465
+    },
+    "Sector-65 Mohali": {
+     "listings": 14,
+     "median_ppsf": 6188
+    },
+    "Sector-66 Mohali": {
+     "listings": 6,
+     "median_ppsf": 6337
+    },
+    "Sector-66A Mohali": {
+     "listings": 35,
+     "median_ppsf": 5092
+    },
+    "Sector-66b Mohali": {
+     "listings": 12,
+     "median_ppsf": 4660
+    },
+    "Sector-68 Mohali": {
+     "listings": 5,
+     "median_ppsf": 4694
+    },
+    "Sector-70 Mohali": {
+     "listings": 33,
+     "median_ppsf": 6811
+    },
+    "Sector-79 Mohali": {
+     "listings": 9,
+     "median_ppsf": 4000
+    },
+    "Sector-82 Mohali": {
+     "listings": 26,
+     "median_ppsf": 5443
+    },
+    "Sector-85 Mohali": {
+     "listings": 17,
+     "median_ppsf": 4403
+    },
+    "Sector-88 Mohali": {
+     "listings": 36,
+     "median_ppsf": 4775
+    },
+    "Sector-91 Mohali": {
+     "listings": 16,
+     "median_ppsf": 4303
+    },
+    "Sunny Enclave": {
+     "listings": 15,
+     "median_ppsf": 2459
+    },
+    "Zirakpur": {
+     "listings": 46,
+     "median_ppsf": 3856
+    }
+   }
+  },
+  "Mumbai": {
+   "listings": 5656,
+   "median_ppsf": 13032,
+   "median_price": 12000000,
+   "median_area": 1000,
+   "localities": {
+    "4 Bunglows": {
+     "listings": 17,
+     "median_ppsf": 25550
+    },
+    "Adharwadi": {
+     "listings": 6,
+     "median_ppsf": 7179
+    },
+    "Airoli": {
+     "listings": 8,
+     "median_ppsf": 11247
+    },
+    "Ambernath": {
+     "listings": 16,
+     "median_ppsf": 5394
+    },
+    "Ambernath East": {
+     "listings": 8,
+     "median_ppsf": 5742
+    },
+    "Ambernath West": {
+     "listings": 6,
+     "median_ppsf": 4284
+    },
+    "Anand Nagar": {
+     "listings": 8,
+     "median_ppsf": 9207
+    },
+    "Andheri (East)": {
+     "listings": 53,
+     "median_ppsf": 19274
+    },
+    "Andheri (West)": {
+     "listings": 48,
+     "median_ppsf": 27953
+    },
+    "Anjurdive": {
+     "listings": 15,
+     "median_ppsf": 10119
+    },
+    "Asha Nagar": {
+     "listings": 5,
+     "median_ppsf": 18889
+    },
+    "Azad Nagar": {
+     "listings": 5,
+     "median_ppsf": 29259
+    },
+    "Badlapur": {
+     "listings": 17,
+     "median_ppsf": 4080
+    },
+    "Badlapur (East)": {
+     "listings": 17,
+     "median_ppsf": 3651
+    },
+    "Balkum": {
+     "listings": 93,
+     "median_ppsf": 12408
+    },
+    "Bandra (West)": {
+     "listings": 20,
+     "median_ppsf": 40833
+    },
+    "Bandra Kurla Complex": {
+     "listings": 11,
+     "median_ppsf": 36561
+    },
+    "Besa": {
+     "listings": 5,
+     "median_ppsf": 2844
+    },
+    "Bevarly Park": {
+     "listings": 22,
+     "median_ppsf": 7948
+    },
+    "Bhadra Nagar": {
+     "listings": 18,
+     "median_ppsf": 9962
+    },
+    "Bhakti Park": {
+     "listings": 13,
+     "median_ppsf": 21250
+    },
+    "Bhandup (West)": {
+     "listings": 55,
+     "median_ppsf": 15625
+    },
+    "Bhayandarpada": {
+     "listings": 6,
+     "median_ppsf": 8684
+    },
+    "Borivali (East)": {
+     "listings": 26,
+     "median_ppsf": 17359
+    },
+    "Borivali (West)": {
+     "listings": 20,
+     "median_ppsf": 19228
+    },
+    "Brahmand": {
+     "listings": 5,
+     "median_ppsf": 10000
+    },
+    "Byculla East": {
+     "listings": 8,
+     "median_ppsf": 27608
+    },
+    "Chandivali": {
+     "listings": 59,
+     "median_ppsf": 17832
+    },
+    "Chembur": {
+     "listings": 103,
+     "median_ppsf": 18947
+    },
+    "Chembur (East)": {
+     "listings": 98,
+     "median_ppsf": 19896
+    },
+    "Chembur (West)": {
+     "listings": 5,
+     "median_ppsf": 17273
+    },
+    "Chikhal Dongari": {
+     "listings": 5,
+     "median_ppsf": 4526
+    },
+    "Chincholi Bunder": {
+     "listings": 6,
+     "median_ppsf": 15160
+    },
+    "Colaba": {
+     "listings": 7,
+     "median_ppsf": 38462
+    },
+    "Cuffe Parade": {
+     "listings": 7,
+     "median_ppsf": 51324
+    },
+    "DN Nagar": {
+     "listings": 10,
+     "median_ppsf": 26000
+    },
+    "Dadar (East)": {
+     "listings": 5,
+     "median_ppsf": 23957
+    },
+    "Dadar (West)": {
+     "listings": 10,
+     "median_ppsf": 30338
+    },
+    "Dahisar (East)": {
+     "listings": 31,
+     "median_ppsf": 11309
+    },
+    "Deonar": {
+     "listings": 11,
+     "median_ppsf": 20913
+    },
+    "Dhokali": {
+     "listings": 27,
+     "median_ppsf": 11666
+    },
+    "Dombivli (East)": {
+     "listings": 86,
+     "median_ppsf": 6613
+    },
+    "Dronagiri": {
+     "listings": 17,
+     "median_ppsf": 5832
+    },
+    "Gangapur": {
+     "listings": 5,
+     "median_ppsf": 4200
+    },
+    "Ghansoli": {
+     "listings": 33,
+     "median_ppsf": 12803
+    },
+    "Ghatkopar (East)": {
+     "listings": 13,
+     "median_ppsf": 27376
+    },
+    "Ghatkopar West": {
+     "listings": 5,
+     "median_ppsf": 17593
+    },
+    "Ghodbunder Road": {
+     "listings": 117,
+     "median_ppsf": 9539
+    },
+    "Goregaon (East)": {
+     "listings": 86,
+     "median_ppsf": 19249
+    },
+    "Goregaon (West)": {
+     "listings": 54,
+     "median_ppsf": 21417
+    },
+    "Hatkesh Udhog Nagar": {
+     "listings": 5,
+     "median_ppsf": 8838
+    },
+    "Hinjewadi": {
+     "listings": 8,
+     "median_ppsf": 9154
+    },
+    "Hiranandani Estate": {
+     "listings": 102,
+     "median_ppsf": 14460
+    },
+    "Hiranandani Gardens - Powai": {
+     "listings": 28,
+     "median_ppsf": 34513
+    },
+    "Hiranandani Meadows": {
+     "listings": 7,
+     "median_ppsf": 18659
+    },
+    "I C Colony": {
+     "listings": 10,
+     "median_ppsf": 18210
+    },
+    "JK Gram": {
+     "listings": 7,
+     "median_ppsf": 18127
+    },
+    "JVLR": {
+     "listings": 7,
+     "median_ppsf": 21704
+    },
+    "Jankalyan Nagar": {
+     "listings": 11,
+     "median_ppsf": 13636
+    },
+    "Jeejamata Nagar": {
+     "listings": 7,
+     "median_ppsf": 12694
+    },
+    "Jogeshwari (East)": {
+     "listings": 12,
+     "median_ppsf": 21532
+    },
+    "Jogeshwari (West)": {
+     "listings": 21,
+     "median_ppsf": 16174
+    },
+    "Juhu": {
+     "listings": 18,
+     "median_ppsf": 36959
+    },
+    "Kalamboli": {
+     "listings": 6,
+     "median_ppsf": 6267
+    },
+    "Kalwa": {
+     "listings": 5,
+     "median_ppsf": 10253
+    },
+    "Kalyan (West)": {
+     "listings": 35,
+     "median_ppsf": 7084
+    },
+    "Kamothe": {
+     "listings": 14,
+     "median_ppsf": 7677
+    },
+    "Kanchpada": {
+     "listings": 6,
+     "median_ppsf": 20472
+    },
+    "Kandivali (East)": {
+     "listings": 103,
+     "median_ppsf": 16893
+    },
+    "Kandivali (West)": {
+     "listings": 17,
+     "median_ppsf": 20574
+    },
+    "Kanjur Marg (East)": {
+     "listings": 86,
+     "median_ppsf": 16887
+    },
+    "Kanjur marg (west)": {
+     "listings": 21,
+     "median_ppsf": 23343
+    },
+    "Kapurbawadi": {
+     "listings": 8,
+     "median_ppsf": 11269
+    },
+    "Karade Khurd": {
+     "listings": 7,
+     "median_ppsf": 3561
+    },
+    "Karanjade": {
+     "listings": 16,
+     "median_ppsf": 6422
+    },
+    "Karjat": {
+     "listings": 7,
+     "median_ppsf": 6206
+    },
+    "Kasar vadavali": {
+     "listings": 42,
+     "median_ppsf": 10000
+    },
+    "Khadakpada": {
+     "listings": 11,
+     "median_ppsf": 6376
+    },
+    "Khar West": {
+     "listings": 24,
+     "median_ppsf": 34000
+    },
+    "Kharadi": {
+     "listings": 7,
+     "median_ppsf": 9348
+    },
+    "Kharghar": {
+     "listings": 125,
+     "median_ppsf": 9400
+    },
+    "Kolshet Industrial Area": {
+     "listings": 6,
+     "median_ppsf": 16020
+    },
+    "Kolshet Road": {
+     "listings": 118,
+     "median_ppsf": 13184
+    },
+    "Kopara": {
+     "listings": 6,
+     "median_ppsf": 8039
+    },
+    "Koperkhairane": {
+     "listings": 5,
+     "median_ppsf": 11949
+    },
+    "Laxmi Nagar": {
+     "listings": 21,
+     "median_ppsf": 14567
+    },
+    "Lokhandwala Andheri West": {
+     "listings": 9,
+     "median_ppsf": 28464
+    },
+    "Lokhandwala Kandivali East": {
+     "listings": 14,
+     "median_ppsf": 14987
+    },
+    "Louis Wadi": {
+     "listings": 6,
+     "median_ppsf": 12834
+    },
+    "Lower Parel": {
+     "listings": 11,
+     "median_ppsf": 30000
+    },
+    "Mahalaxmi": {
+     "listings": 15,
+     "median_ppsf": 32895
+    },
+    "Mahesh Nagar": {
+     "listings": 5,
+     "median_ppsf": 17000
+    },
+    "Majiwada": {
+     "listings": 59,
+     "median_ppsf": 12094
+    },
+    "Malad (East)": {
+     "listings": 53,
+     "median_ppsf": 16138
+    },
+    "Malad (West)": {
+     "listings": 88,
+     "median_ppsf": 16385
+    },
+    "Manpada": {
+     "listings": 80,
+     "median_ppsf": 12063
+    },
+    "Marol": {
+     "listings": 39,
+     "median_ppsf": 18946
+    },
+    "Mihan": {
+     "listings": 5,
+     "median_ppsf": 4737
+    },
+    "Mira Bhayandar": {
+     "listings": 15,
+     "median_ppsf": 8301
+    },
+    "Mira Road": {
+     "listings": 77,
+     "median_ppsf": 8169
+    },
+    "Mira Road East": {
+     "listings": 85,
+     "median_ppsf": 8269
+    },
+    "Mulund (East)": {
+     "listings": 19,
+     "median_ppsf": 16190
+    },
+    "Mulund (West)": {
+     "listings": 133,
+     "median_ppsf": 17647
+    },
+    "Naigaon (East)": {
+     "listings": 17,
+     "median_ppsf": 5079
+    },
+    "Nalasopara (West)": {
+     "listings": 21,
+     "median_ppsf": 4159
+    },
+    "Nalasopara East": {
+     "listings": 5,
+     "median_ppsf": 4925
+    },
+    "Naupada": {
+     "listings": 5,
+     "median_ppsf": 14754
+    },
+    "Neral": {
+     "listings": 5,
+     "median_ppsf": 3098
+    },
+    "Nerul": {
+     "listings": 5,
+     "median_ppsf": 14117
+    },
+    "New Panvel": {
+     "listings": 26,
+     "median_ppsf": 8500
+    },
+    "Oshiwara": {
+     "listings": 10,
+     "median_ppsf": 20727
+    },
+    "Panch Pakhadi": {
+     "listings": 6,
+     "median_ppsf": 11340
+    },
+    "Panvel": {
+     "listings": 45,
+     "median_ppsf": 8119
+    },
+    "Parel": {
+     "listings": 29,
+     "median_ppsf": 28633
+    },
+    "Patlipada": {
+     "listings": 9,
+     "median_ppsf": 13899
+    },
+    "Pokhran-2": {
+     "listings": 54,
+     "median_ppsf": 14409
+    },
+    "Powai": {
+     "listings": 66,
+     "median_ppsf": 20749
+    },
+    "Prabhadevi": {
+     "listings": 7,
+     "median_ppsf": 45254
+    },
+    "Raheja Vihar": {
+     "listings": 6,
+     "median_ppsf": 18546
+    },
+    "Ranjnoli": {
+     "listings": 8,
+     "median_ppsf": 6636
+    },
+    "Roadpali": {
+     "listings": 33,
+     "median_ppsf": 7168
+    },
+    "Sainath Nagar": {
+     "listings": 5,
+     "median_ppsf": 12821
+    },
+    "Samata Nagar": {
+     "listings": 10,
+     "median_ppsf": 12331
+    },
+    "Santacruz (West)": {
+     "listings": 10,
+     "median_ppsf": 35640
+    },
+    "Savarkar Nagar": {
+     "listings": 5,
+     "median_ppsf": 4850
+    },
+    "Seawoods": {
+     "listings": 9,
+     "median_ppsf": 18045
+    },
+    "Sector 10 Kharghar": {
+     "listings": 27,
+     "median_ppsf": 9160
+    },
+    "Sector 11 Kharghar": {
+     "listings": 10,
+     "median_ppsf": 10082
+    },
+    "Sector 12 Kharghar": {
+     "listings": 19,
+     "median_ppsf": 10056
+    },
+    "Sector 15 Kharghar": {
+     "listings": 15,
+     "median_ppsf": 10655
+    },
+    "Sector 17 Ulwe": {
+     "listings": 24,
+     "median_ppsf": 6930
+    },
+    "Sector 18 Kamothe": {
+     "listings": 6,
+     "median_ppsf": 7810
+    },
+    "Sector 18 Kharghar": {
+     "listings": 9,
+     "median_ppsf": 10000
+    },
+    "Sector 19 Kamothe": {
+     "listings": 8,
+     "median_ppsf": 7619
+    },
+    "Sector 19 Kharghar": {
+     "listings": 16,
+     "median_ppsf": 10105
+    },
+    "Sector 19 Ulwe": {
+     "listings": 19,
+     "median_ppsf": 7272
+    },
+    "Sector 2 Kharghar": {
+     "listings": 5,
+     "median_ppsf": 10548
+    },
+    "Sector 20 Kharghar": {
+     "listings": 25,
+     "median_ppsf": 9583
+    },
+    "Sector 20 Ulwe": {
+     "listings": 15,
+     "median_ppsf": 7729
+    },
+    "Sector 21 Kharghar": {
+     "listings": 8,
+     "median_ppsf": 9491
+    },
+    "Sector 21 Ulwe": {
+     "listings": 16,
+     "median_ppsf": 8011
+    },
+    "Sector 22 Kamothe": {
+     "listings": 7,
+     "median_ppsf": 7258
+    },
+    "Sector 23 Ulwe": {
+     "listings": 15,
+     "median_ppsf": 7500
+    },
+    "Sector 34C Kharghar": {
+     "listings": 10,
+     "median_ppsf": 8571
+    },
+    "Sector 35I Kharghar": {
+     "listings": 21,
+     "median_ppsf": 7983
+    },
+    "Sector 36 Kharghar": {
+     "listings": 11,
+     "median_ppsf": 7409
+    },
+    "Sector 42 Seawoods": {
+     "listings": 5,
+     "median_ppsf": 11687
+    },
+    "Sector 5 Ulwe": {
+     "listings": 19,
+     "median_ppsf": 7916
+    },
+    "Sector 7 Kharghar": {
+     "listings": 13,
+     "median_ppsf": 11363
+    },
+    "Sector 8 Airoli": {
+     "listings": 5,
+     "median_ppsf": 12742
+    },
+    "Sector-10A Airoli": {
+     "listings": 5,
+     "median_ppsf": 13847
+    },
+    "Sector-11 Ghansoli": {
+     "listings": 9,
+     "median_ppsf": 14527
+    },
+    "Sector-15 Ghansoli": {
+     "listings": 12,
+     "median_ppsf": 10532
+    },
+    "Sector-16 Ulwe": {
+     "listings": 11,
+     "median_ppsf": 8421
+    },
+    "Sector-18 Ulwe": {
+     "listings": 26,
+     "median_ppsf": 7469
+    },
+    "Sector-20 Roadpali": {
+     "listings": 8,
+     "median_ppsf": 6842
+    },
+    "Sector-23 Kharghar": {
+     "listings": 7,
+     "median_ppsf": 11232
+    },
+    "Sector-23 Taloja": {
+     "listings": 5,
+     "median_ppsf": 5076
+    },
+    "Sector-27 Kharghar": {
+     "listings": 7,
+     "median_ppsf": 11090
+    },
+    "Sector-3 Ulwe": {
+     "listings": 9,
+     "median_ppsf": 7809
+    },
+    "Sector-34A Kharghar": {
+     "listings": 15,
+     "median_ppsf": 11607
+    },
+    "Sector-35 Kamothe": {
+     "listings": 8,
+     "median_ppsf": 7693
+    },
+    "Sector-35D Kharghar": {
+     "listings": 18,
+     "median_ppsf": 8451
+    },
+    "Sector-35E Kharghar": {
+     "listings": 8,
+     "median_ppsf": 9049
+    },
+    "Sector-35G Kharghar": {
+     "listings": 40,
+     "median_ppsf": 9052
+    },
+    "Sector-38 Seawoods": {
+     "listings": 9,
+     "median_ppsf": 13270
+    },
+    "Sector-58 Seawoods": {
+     "listings": 6,
+     "median_ppsf": 17805
+    },
+    "Sector-6 Kharghar": {
+     "listings": 9,
+     "median_ppsf": 11794
+    },
+    "Sector-8 Kharghar": {
+     "listings": 9,
+     "median_ppsf": 9500
+    },
+    "Sector-8 Ulwe": {
+     "listings": 19,
+     "median_ppsf": 8159
+    },
+    "Sector-9 Ulwe": {
+     "listings": 27,
+     "median_ppsf": 8000
+    },
+    "Seven Bunglow": {
+     "listings": 6,
+     "median_ppsf": 22714
+    },
+    "Shastri Nagar": {
+     "listings": 11,
+     "median_ppsf": 31629
+    },
+    "Shilphata": {
+     "listings": 10,
+     "median_ppsf": 5449
+    },
+    "Sindhi Society Chembur": {
+     "listings": 8,
+     "median_ppsf": 17929
+    },
+    "Subhash Nagar": {
+     "listings": 7,
+     "median_ppsf": 15238
+    },
+    "Tagore Nagar": {
+     "listings": 5,
+     "median_ppsf": 18197
+    },
+    "Taloja": {
+     "listings": 63,
+     "median_ppsf": 5462
+    },
+    "Taloja Panchanand": {
+     "listings": 24,
+     "median_ppsf": 5589
+    },
+    "Teen Haath Naka": {
+     "listings": 6,
+     "median_ppsf": 16792
+    },
+    "Thakur Village": {
+     "listings": 42,
+     "median_ppsf": 17997
+    },
+    "Thane West": {
+     "listings": 140,
+     "median_ppsf": 13107
+    },
+    "Tilak Nagar": {
+     "listings": 44,
+     "median_ppsf": 14187
+    },
+    "Tilak nagar": {
+     "listings": 10,
+     "median_ppsf": 16506
+    },
+    "Ulwe": {
+     "listings": 46,
+     "median_ppsf": 7608
+    },
+    "Vakola": {
+     "listings": 6,
+     "median_ppsf": 20648
+    },
+    "Vartak Nagar": {
+     "listings": 9,
+     "median_ppsf": 13091
+    },
+    "Vasai East": {
+     "listings": 9,
+     "median_ppsf": 4750
+    },
+    "Vasant Vihar": {
+     "listings": 14,
+     "median_ppsf": 13268
+    },
+    "Veera Desai Road": {
+     "listings": 8,
+     "median_ppsf": 22838
+    },
+    "Versova": {
+     "listings": 5,
+     "median_ppsf": 34737
+    },
+    "Vijay Nagari": {
+     "listings": 6,
+     "median_ppsf": 10014
+    },
+    "Vijay Park": {
+     "listings": 5,
+     "median_ppsf": 9092
+    },
+    "Vikhroli (West)": {
+     "listings": 7,
+     "median_ppsf": 20766
+    },
+    "Vile Parle (East)": {
+     "listings": 13,
+     "median_ppsf": 30664
+    },
+    "Vile Parle (West)": {
+     "listings": 17,
+     "median_ppsf": 30555
+    },
+    "Virar West": {
+     "listings": 54,
+     "median_ppsf": 4774
+    },
+    "Wadala": {
+     "listings": 65,
+     "median_ppsf": 21652
+    },
+    "Wadala East": {
+     "listings": 47,
+     "median_ppsf": 23296
+    },
+    "Waghbil": {
+     "listings": 14,
+     "median_ppsf": 10047
+    },
+    "Worli": {
+     "listings": 52,
+     "median_ppsf": 41352
+    },
+    "kavesar": {
+     "listings": 41,
+     "median_ppsf": 10563
+    }
+   }
+  },
+  "Mysore": {
+   "listings": 43,
+   "median_ppsf": 4757,
+   "median_price": 5500000,
+   "median_area": 1244,
+   "localities": {
+    "J.P Nagar": {
+     "listings": 5,
+     "median_ppsf": 4071
+    }
+   }
+  },
+  "Nagpur": {
+   "listings": 329,
+   "median_ppsf": 3733,
+   "median_price": 3700000,
+   "median_area": 1037,
+   "localities": {
+    "Besa": {
+     "listings": 11,
+     "median_ppsf": 3433
+    },
+    "Chinchbhavan": {
+     "listings": 9,
+     "median_ppsf": 3588
+    },
+    "Dabha": {
+     "listings": 6,
+     "median_ppsf": 3140
+    },
+    "Friends Colony": {
+     "listings": 5,
+     "median_ppsf": 4074
+    },
+    "Hingna Road": {
+     "listings": 7,
+     "median_ppsf": 4117
+    },
+    "Hudkeshwar": {
+     "listings": 5,
+     "median_ppsf": 3433
+    },
+    "Manewada": {
+     "listings": 12,
+     "median_ppsf": 3090
+    },
+    "Manish Nagar": {
+     "listings": 26,
+     "median_ppsf": 3911
+    },
+    "Mihan": {
+     "listings": 13,
+     "median_ppsf": 4584
+    },
+    "Narendra Nagar": {
+     "listings": 10,
+     "median_ppsf": 4378
+    },
+    "Omkar Nagar": {
+     "listings": 9,
+     "median_ppsf": 3571
+    },
+    "Trimurti Nagar": {
+     "listings": 9,
+     "median_ppsf": 4210
+    },
+    "Wanadongri": {
+     "listings": 6,
+     "median_ppsf": 3258
+    },
+    "Wardha Road": {
+     "listings": 9,
+     "median_ppsf": 3598
+    },
+    "Zingabai Takli": {
+     "listings": 11,
+     "median_ppsf": 2918
+    }
+   }
+  },
+  "Neemrana": {
+   "listings": 35,
+   "median_ppsf": 2823,
+   "median_price": 2350000,
+   "median_area": 900,
+   "localities": {
+    "Japanese Zone": {
+     "listings": 10,
+     "median_ppsf": 2882
+    },
+    "NH-8": {
+     "listings": 20,
+     "median_ppsf": 2804
+    }
+   }
+  },
+  "Nellore": {
+   "listings": 22,
+   "median_ppsf": 2720,
+   "median_price": 3575000,
+   "median_area": 1204,
+   "localities": {}
+  },
+  "Noida": {
+   "listings": 1706,
+   "median_ppsf": 5077,
+   "median_price": 7000000,
+   "median_area": 1390,
+   "localities": {
+    "Arun Vihar": {
+     "listings": 5,
+     "median_ppsf": 6250
+    },
+    "Chhalera": {
+     "listings": 29,
+     "median_ppsf": 2842
+    },
+    "Hajipur": {
+     "listings": 7,
+     "median_ppsf": 2554
+    },
+    "Noida Extension": {
+     "listings": 102,
+     "median_ppsf": 3750
+    },
+    "Sector-100 Noida": {
+     "listings": 37,
+     "median_ppsf": 5268
+    },
+    "Sector-104 Noida": {
+     "listings": 19,
+     "median_ppsf": 7674
+    },
+    "Sector-107 Noida": {
+     "listings": 46,
+     "median_ppsf": 6154
+    },
+    "Sector-108 Noida": {
+     "listings": 20,
+     "median_ppsf": 6132
+    },
+    "Sector-110 Noida": {
+     "listings": 26,
+     "median_ppsf": 4695
+    },
+    "Sector-117 Noida": {
+     "listings": 7,
+     "median_ppsf": 4308
+    },
+    "Sector-118 Noida": {
+     "listings": 17,
+     "median_ppsf": 4983
+    },
+    "Sector-119 Noida": {
+     "listings": 37,
+     "median_ppsf": 4947
+    },
+    "Sector-120 Noida": {
+     "listings": 28,
+     "median_ppsf": 4841
+    },
+    "Sector-128 Noida": {
+     "listings": 47,
+     "median_ppsf": 6352
+    },
+    "Sector-129 Noida": {
+     "listings": 14,
+     "median_ppsf": 3372
+    },
+    "Sector-134 Noida": {
+     "listings": 46,
+     "median_ppsf": 3575
+    },
+    "Sector-137 Noida": {
+     "listings": 136,
+     "median_ppsf": 4708
+    },
+    "Sector-143 Noida": {
+     "listings": 47,
+     "median_ppsf": 4893
+    },
+    "Sector-143B Noida": {
+     "listings": 10,
+     "median_ppsf": 4547
+    },
+    "Sector-144 Noida": {
+     "listings": 9,
+     "median_ppsf": 4966
+    },
+    "Sector-150 Noida": {
+     "listings": 88,
+     "median_ppsf": 5507
+    },
+    "Sector-151 Noida": {
+     "listings": 27,
+     "median_ppsf": 2954
+    },
+    "Sector-152 Noida": {
+     "listings": 9,
+     "median_ppsf": 4756
+    },
+    "Sector-168 Noida": {
+     "listings": 50,
+     "median_ppsf": 4600
+    },
+    "Sector-21 Noida": {
+     "listings": 9,
+     "median_ppsf": 6033
+    },
+    "Sector-28 Noida": {
+     "listings": 5,
+     "median_ppsf": 6900
+    },
+    "Sector-29 Noida": {
+     "listings": 10,
+     "median_ppsf": 6964
+    },
+    "Sector-34 Noida": {
+     "listings": 12,
+     "median_ppsf": 5570
+    },
+    "Sector-37 Noida": {
+     "listings": 8,
+     "median_ppsf": 5401
+    },
+    "Sector-44 Noida": {
+     "listings": 19,
+     "median_ppsf": 5666
+    },
+    "Sector-45 Noida": {
+     "listings": 35,
+     "median_ppsf": 3261
+    },
+    "Sector-46 Noida": {
+     "listings": 7,
+     "median_ppsf": 4736
+    },
+    "Sector-49 Noida": {
+     "listings": 11,
+     "median_ppsf": 2941
+    },
+    "Sector-50 Noida": {
+     "listings": 37,
+     "median_ppsf": 5925
+    },
+    "Sector-51 Noida": {
+     "listings": 7,
+     "median_ppsf": 6875
+    },
+    "Sector-52 Noida": {
+     "listings": 7,
+     "median_ppsf": 6476
+    },
+    "Sector-53 Noida": {
+     "listings": 6,
+     "median_ppsf": 4261
+    },
+    "Sector-61 Noida": {
+     "listings": 16,
+     "median_ppsf": 5736
+    },
+    "Sector-62 Noida": {
+     "listings": 41,
+     "median_ppsf": 5537
+    },
+    "Sector-70 Noida": {
+     "listings": 18,
+     "median_ppsf": 4939
+    },
+    "Sector-73 Noida": {
+     "listings": 15,
+     "median_ppsf": 3700
+    },
+    "Sector-74 Noida": {
+     "listings": 71,
+     "median_ppsf": 5105
+    },
+    "Sector-75 Noida": {
+     "listings": 99,
+     "median_ppsf": 5063
+    },
+    "Sector-76 Noida": {
+     "listings": 28,
+     "median_ppsf": 5150
+    },
+    "Sector-77 Noida": {
+     "listings": 51,
+     "median_ppsf": 5360
+    },
+    "Sector-78 Noida": {
+     "listings": 88,
+     "median_ppsf": 5348
+    },
+    "Sector-79 Noida": {
+     "listings": 44,
+     "median_ppsf": 5747
+    },
+    "Sector-82 Noida": {
+     "listings": 18,
+     "median_ppsf": 4503
+    },
+    "Sector-93 A Noida": {
+     "listings": 21,
+     "median_ppsf": 8334
+    },
+    "Sector-93 B Noida": {
+     "listings": 24,
+     "median_ppsf": 6446
+    },
+    "Sector-93 Noida": {
+     "listings": 18,
+     "median_ppsf": 4904
+    },
+    "Sector-94 Noida": {
+     "listings": 10,
+     "median_ppsf": 11426
+    },
+    "Sector-99 Noida": {
+     "listings": 6,
+     "median_ppsf": 4783
+    },
+    "sector-121 Noida": {
+     "listings": 41,
+     "median_ppsf": 7098
+    }
+   }
+  },
+  "Palakkad": {
+   "listings": 24,
+   "median_ppsf": 3548,
+   "median_price": 4550000,
+   "median_area": 1300,
+   "localities": {}
+  },
+  "Palghar": {
+   "listings": 100,
+   "median_ppsf": 3240,
+   "median_price": 1955000,
+   "median_area": 593,
+   "localities": {
+    "Betegaon": {
+     "listings": 8,
+     "median_ppsf": 2949
+    },
+    "Boisar": {
+     "listings": 19,
+     "median_ppsf": 3200
+    },
+    "Mahim": {
+     "listings": 14,
+     "median_ppsf": 3050
+    },
+    "Nandore": {
+     "listings": 5,
+     "median_ppsf": 3566
+    },
+    "Tembhode": {
+     "listings": 6,
+     "median_ppsf": 2975
+    }
+   }
+  },
+  "Panaji": {
+   "listings": 32,
+   "median_ppsf": 6928,
+   "median_price": 8250000,
+   "median_area": 1181,
+   "localities": {
+    "Caranzalem": {
+     "listings": 10,
+     "median_ppsf": 8468
+    },
+    "Dona Paula": {
+     "listings": 6,
+     "median_ppsf": 9933
+    }
+   }
+  },
+  "Panchkula": {
+   "listings": 80,
+   "median_ppsf": 4050,
+   "median_price": 6500000,
+   "median_area": 1729,
+   "localities": {
+    "Mdc Sector-4": {
+     "listings": 6,
+     "median_ppsf": 6625
+    },
+    "Peer Muchalla": {
+     "listings": 21,
+     "median_ppsf": 3111
+    },
+    "Sector-20 Panchkula": {
+     "listings": 26,
+     "median_ppsf": 4180
+    },
+    "Zirakpur": {
+     "listings": 8,
+     "median_ppsf": 3686
+    }
+   }
+  },
+  "Patna": {
+   "listings": 81,
+   "median_ppsf": 4278,
+   "median_price": 5200000,
+   "median_area": 1275,
+   "localities": {
+    "Gola Road": {
+     "listings": 7,
+     "median_ppsf": 4231
+    },
+    "Jagdeo Path": {
+     "listings": 5,
+     "median_ppsf": 4509
+    }
+   }
+  },
+  "Pune": {
+   "listings": 1967,
+   "median_ppsf": 6470,
+   "median_price": 6700000,
+   "median_area": 1050,
+   "localities": {
+    "Akurdi": {
+     "listings": 5,
+     "median_ppsf": 7514
+    },
+    "Ambegaon": {
+     "listings": 7,
+     "median_ppsf": 6150
+    },
+    "Ambegaon Bk": {
+     "listings": 6,
+     "median_ppsf": 4784
+    },
+    "Ambegaon Budruk": {
+     "listings": 7,
+     "median_ppsf": 4347
+    },
+    "Anand Nagar": {
+     "listings": 7,
+     "median_ppsf": 7407
+    },
+    "Aundh": {
+     "listings": 19,
+     "median_ppsf": 9030
+    },
+    "Balewadi": {
+     "listings": 56,
+     "median_ppsf": 7263
+    },
+    "Baner": {
+     "listings": 98,
+     "median_ppsf": 7742
+    },
+    "Baner Pashan Link Road": {
+     "listings": 10,
+     "median_ppsf": 7231
+    },
+    "Bavdhan": {
+     "listings": 28,
+     "median_ppsf": 7009
+    },
+    "Bhekrai Nagar": {
+     "listings": 5,
+     "median_ppsf": 4000
+    },
+    "Bhumkar Nagar": {
+     "listings": 7,
+     "median_ppsf": 6206
+    },
+    "Chakan": {
+     "listings": 24,
+     "median_ppsf": 3638
+    },
+    "Chikhali": {
+     "listings": 13,
+     "median_ppsf": 4405
+    },
+    "Chinchwad": {
+     "listings": 11,
+     "median_ppsf": 8000
+    },
+    "Dhanori": {
+     "listings": 13,
+     "median_ppsf": 6054
+    },
+    "Dhayari": {
+     "listings": 16,
+     "median_ppsf": 5063
+    },
+    "Dighi": {
+     "listings": 6,
+     "median_ppsf": 5853
+    },
+    "Eon Free Zone": {
+     "listings": 13,
+     "median_ppsf": 7334
+    },
+    "Erandwane": {
+     "listings": 5,
+     "median_ppsf": 13333
+    },
+    "Hadapsar": {
+     "listings": 69,
+     "median_ppsf": 6641
+    },
+    "Handewadi": {
+     "listings": 9,
+     "median_ppsf": 4887
+    },
+    "Hinjewadi": {
+     "listings": 50,
+     "median_ppsf": 6493
+    },
+    "Hinjewadi Phase 1": {
+     "listings": 7,
+     "median_ppsf": 5987
+    },
+    "Kalyani Nagar": {
+     "listings": 31,
+     "median_ppsf": 9523
+    },
+    "Karve Nagar": {
+     "listings": 5,
+     "median_ppsf": 10976
+    },
+    "Kaspate Vasti": {
+     "listings": 11,
+     "median_ppsf": 6750
+    },
+    "Kate Wasti": {
+     "listings": 6,
+     "median_ppsf": 5632
+    },
+    "Katraj Kondhwa Road": {
+     "listings": 7,
+     "median_ppsf": 6346
+    },
+    "Keshav Nagar": {
+     "listings": 35,
+     "median_ppsf": 6751
+    },
+    "Kharadi": {
+     "listings": 75,
+     "median_ppsf": 7500
+    },
+    "Kiwale": {
+     "listings": 5,
+     "median_ppsf": 6715
+    },
+    "Kondhwa": {
+     "listings": 28,
+     "median_ppsf": 6044
+    },
+    "Koregaon Park": {
+     "listings": 11,
+     "median_ppsf": 9756
+    },
+    "Kothrud": {
+     "listings": 19,
+     "median_ppsf": 10056
+    },
+    "Lohegaon": {
+     "listings": 22,
+     "median_ppsf": 5024
+    },
+    "Magarpatta": {
+     "listings": 17,
+     "median_ppsf": 8607
+    },
+    "Mahalunge": {
+     "listings": 15,
+     "median_ppsf": 5817
+    },
+    "Mamurdi": {
+     "listings": 5,
+     "median_ppsf": 5481
+    },
+    "Manjari Khurd": {
+     "listings": 6,
+     "median_ppsf": 7075
+    },
+    "Manjri": {
+     "listings": 5,
+     "median_ppsf": 5931
+    },
+    "Marunji": {
+     "listings": 5,
+     "median_ppsf": 7894
+    },
+    "Mhada Colony": {
+     "listings": 6,
+     "median_ppsf": 7489
+    },
+    "Model Colony": {
+     "listings": 7,
+     "median_ppsf": 15857
+    },
+    "Mohamadwadi": {
+     "listings": 26,
+     "median_ppsf": 6293
+    },
+    "Moshi": {
+     "listings": 58,
+     "median_ppsf": 4599
+    },
+    "NIBM": {
+     "listings": 71,
+     "median_ppsf": 5957
+    },
+    "Narhe": {
+     "listings": 13,
+     "median_ppsf": 4908
+    },
+    "Pandhari Nagar": {
+     "listings": 6,
+     "median_ppsf": 7540
+    },
+    "Pashan": {
+     "listings": 20,
+     "median_ppsf": 8028
+    },
+    "Pimple Gurav": {
+     "listings": 5,
+     "median_ppsf": 7003
+    },
+    "Pimple Nilakh": {
+     "listings": 11,
+     "median_ppsf": 8500
+    },
+    "Pimple Saudagar": {
+     "listings": 40,
+     "median_ppsf": 6771
+    },
+    "Pimpri Chinchwad": {
+     "listings": 6,
+     "median_ppsf": 7032
+    },
+    "Pirangut": {
+     "listings": 5,
+     "median_ppsf": 4157
+    },
+    "Pisoli": {
+     "listings": 17,
+     "median_ppsf": 5208
+    },
+    "Prabhat Road": {
+     "listings": 7,
+     "median_ppsf": 15667
+    },
+    "Punawale": {
+     "listings": 39,
+     "median_ppsf": 5349
+    },
+    "Pune Mumbai Highway": {
+     "listings": 5,
+     "median_ppsf": 7583
+    },
+    "Rahatani": {
+     "listings": 12,
+     "median_ppsf": 6706
+    },
+    "Ravet": {
+     "listings": 55,
+     "median_ppsf": 5795
+    },
+    "Shankar Kalat Nagar": {
+     "listings": 27,
+     "median_ppsf": 6865
+    },
+    "Sinhgad Road": {
+     "listings": 23,
+     "median_ppsf": 7092
+    },
+    "Sukhsagar Nagar": {
+     "listings": 6,
+     "median_ppsf": 5259
+    },
+    "Sus": {
+     "listings": 14,
+     "median_ppsf": 6197
+    },
+    "Tathawade": {
+     "listings": 28,
+     "median_ppsf": 6043
+    },
+    "Thergaon": {
+     "listings": 5,
+     "median_ppsf": 7000
+    },
+    "Tingre Nagar": {
+     "listings": 5,
+     "median_ppsf": 7186
+    },
+    "Tulaja Bhawani Nagar": {
+     "listings": 5,
+     "median_ppsf": 6872
+    },
+    "Undri": {
+     "listings": 55,
+     "median_ppsf": 5500
+    },
+    "Viman Nagar": {
+     "listings": 9,
+     "median_ppsf": 8195
+    },
+    "Vishrantwadi": {
+     "listings": 5,
+     "median_ppsf": 6896
+    },
+    "Wadgaon Sheri": {
+     "listings": 5,
+     "median_ppsf": 6181
+    },
+    "Wagholi": {
+     "listings": 79,
+     "median_ppsf": 4753
+    },
+    "Wakad": {
+     "listings": 71,
+     "median_ppsf": 6607
+    },
+    "Wanowrie": {
+     "listings": 17,
+     "median_ppsf": 6973
+    },
+    "Wanwadi": {
+     "listings": 10,
+     "median_ppsf": 7462
+    },
+    "Warje": {
+     "listings": 6,
+     "median_ppsf": 6932
+    }
+   }
+  },
+  "Raigad": {
+   "listings": 64,
+   "median_ppsf": 4049,
+   "median_price": 2500000,
+   "median_area": 650,
+   "localities": {
+    "Alibaug": {
+     "listings": 8,
+     "median_ppsf": 4288
+    },
+    "Pen": {
+     "listings": 10,
+     "median_ppsf": 4309
+    }
+   }
+  },
+  "Raipur": {
+   "listings": 86,
+   "median_ppsf": 2786,
+   "median_price": 3460000,
+   "median_area": 1184,
+   "localities": {
+    "Avanti Vihar": {
+     "listings": 5,
+     "median_ppsf": 3498
+    },
+    "Kabir Nagar": {
+     "listings": 5,
+     "median_ppsf": 2388
+    },
+    "Naya Raipur": {
+     "listings": 6,
+     "median_ppsf": 3108
+    },
+    "Saddu": {
+     "listings": 5,
+     "median_ppsf": 2750
+    },
+    "Sarona": {
+     "listings": 5,
+     "median_ppsf": 2600
+    },
+    "Shankar Nagar": {
+     "listings": 5,
+     "median_ppsf": 3600
+    }
+   }
+  },
+  "Rajkot": {
+   "listings": 81,
+   "median_ppsf": 4950,
+   "median_price": 3500000,
+   "median_area": 765,
+   "localities": {
+    "Kalavad Road": {
+     "listings": 6,
+     "median_ppsf": 5885
+    }
+   }
+  },
+  "Ranchi": {
+   "listings": 123,
+   "median_ppsf": 3818,
+   "median_price": 5000000,
+   "median_area": 1340,
+   "localities": {
+    "Bariatu": {
+     "listings": 22,
+     "median_ppsf": 3870
+    },
+    "Hesag": {
+     "listings": 5,
+     "median_ppsf": 3846
+    },
+    "Kanke": {
+     "listings": 10,
+     "median_ppsf": 4971
+    },
+    "Lalpur": {
+     "listings": 6,
+     "median_ppsf": 5266
+    },
+    "Morabadi": {
+     "listings": 13,
+     "median_ppsf": 3568
+    },
+    "Singh More": {
+     "listings": 7,
+     "median_ppsf": 3666
+    }
+   }
+  },
+  "Ratnagiri": {
+   "listings": 40,
+   "median_ppsf": 3096,
+   "median_price": 2200000,
+   "median_area": 638,
+   "localities": {
+    "Chiplun": {
+     "listings": 10,
+     "median_ppsf": 2479
+    }
+   }
+  },
+  "Secunderabad": {
+   "listings": 105,
+   "median_ppsf": 3926,
+   "median_price": 5080000,
+   "median_area": 1179,
+   "localities": {
+    "Chintal": {
+     "listings": 5,
+     "median_ppsf": 3627
+    },
+    "Kompally": {
+     "listings": 16,
+     "median_ppsf": 3800
+    },
+    "Sainikpuri": {
+     "listings": 6,
+     "median_ppsf": 4227
+    }
+   }
+  },
+  "Shimla": {
+   "listings": 20,
+   "median_ppsf": 5525,
+   "median_price": 6100000,
+   "median_area": 885,
+   "localities": {}
+  },
+  "Siliguri": {
+   "listings": 83,
+   "median_ppsf": 2900,
+   "median_price": 3300000,
+   "median_area": 1217,
+   "localities": {
+    "Dagapur": {
+     "listings": 5,
+     "median_ppsf": 3099
+    },
+    "Ranidanga": {
+     "listings": 9,
+     "median_ppsf": 1975
+    },
+    "Salugara": {
+     "listings": 8,
+     "median_ppsf": 2700
+    },
+    "Sevoke Road": {
+     "listings": 15,
+     "median_ppsf": 3200
+    },
+    "Shiv Mandir": {
+     "listings": 9,
+     "median_ppsf": 2599
+    }
+   }
+  },
+  "Sindhudurg": {
+   "listings": 22,
+   "median_ppsf": 3095,
+   "median_price": 2035000,
+   "median_area": 667,
+   "localities": {
+    "Kankavli": {
+     "listings": 5,
+     "median_ppsf": 3333
+    },
+    "Sawantwadi": {
+     "listings": 5,
+     "median_ppsf": 2692
+    }
+   }
+  },
+  "Solapur": {
+   "listings": 21,
+   "median_ppsf": 3500,
+   "median_price": 2950000,
+   "median_area": 900,
+   "localities": {}
+  },
+  "Sonipat": {
+   "listings": 116,
+   "median_ppsf": 2836,
+   "median_price": 4370000,
+   "median_area": 1576,
+   "localities": {
+    "Kundli": {
+     "listings": 80,
+     "median_ppsf": 2691
+    },
+    "Sector 10": {
+     "listings": 6,
+     "median_ppsf": 3294
+    },
+    "Sector 35": {
+     "listings": 7,
+     "median_ppsf": 2855
+    },
+    "Sector 8 Sonipat": {
+     "listings": 12,
+     "median_ppsf": 3320
+    }
+   }
+  },
+  "Surat": {
+   "listings": 413,
+   "median_ppsf": 3322,
+   "median_price": 4220000,
+   "median_area": 1250,
+   "localities": {
+    "Adajan": {
+     "listings": 42,
+     "median_ppsf": 3243
+    },
+    "Althan": {
+     "listings": 20,
+     "median_ppsf": 3780
+    },
+    "Amroli": {
+     "listings": 11,
+     "median_ppsf": 1986
+    },
+    "Bhimrad": {
+     "listings": 10,
+     "median_ppsf": 3528
+    },
+    "Citylight Area": {
+     "listings": 5,
+     "median_ppsf": 4400
+    },
+    "Dindoli": {
+     "listings": 18,
+     "median_ppsf": 2194
+    },
+    "Jahangirabad": {
+     "listings": 16,
+     "median_ppsf": 2962
+    },
+    "Jahangirpura": {
+     "listings": 12,
+     "median_ppsf": 2880
+    },
+    "Katargam": {
+     "listings": 12,
+     "median_ppsf": 3109
+    },
+    "PAL": {
+     "listings": 46,
+     "median_ppsf": 3751
+    },
+    "Pal Gam": {
+     "listings": 5,
+     "median_ppsf": 4001
+    },
+    "Palanpur": {
+     "listings": 52,
+     "median_ppsf": 3304
+    },
+    "Palanpur Jakatnaka": {
+     "listings": 5,
+     "median_ppsf": 2538
+    },
+    "Piplod": {
+     "listings": 6,
+     "median_ppsf": 4080
+    },
+    "Vesu": {
+     "listings": 41,
+     "median_ppsf": 4571
+    }
+   }
+  },
+  "Thrissur": {
+   "listings": 57,
+   "median_ppsf": 4080,
+   "median_price": 4600000,
+   "median_area": 1250,
+   "localities": {
+    "Amalanagar": {
+     "listings": 5,
+     "median_ppsf": 4358
+    },
+    "Patturaickal": {
+     "listings": 5,
+     "median_ppsf": 4075
+    },
+    "Punkunnam": {
+     "listings": 5,
+     "median_ppsf": 4285
+    }
+   }
+  },
+  "Udaipur": {
+   "listings": 36,
+   "median_ppsf": 3256,
+   "median_price": 4650000,
+   "median_area": 1430,
+   "localities": {
+    "Bhuwana": {
+     "listings": 6,
+     "median_ppsf": 3397
+    }
+   }
+  },
+  "Udupi": {
+   "listings": 34,
+   "median_ppsf": 3368,
+   "median_price": 3470000,
+   "median_area": 1134,
+   "localities": {
+    "Manipal": {
+     "listings": 6,
+     "median_ppsf": 2914
+    }
+   }
+  },
+  "Vadodara": {
+   "listings": 505,
+   "median_ppsf": 2801,
+   "median_price": 3200000,
+   "median_area": 1150,
+   "localities": {
+    "Ajwa Road": {
+     "listings": 6,
+     "median_ppsf": 2705
+    },
+    "Akota": {
+     "listings": 12,
+     "median_ppsf": 3433
+    },
+    "Alkapuri": {
+     "listings": 12,
+     "median_ppsf": 4110
+    },
+    "Atladra": {
+     "listings": 15,
+     "median_ppsf": 2608
+    },
+    "Bapod": {
+     "listings": 7,
+     "median_ppsf": 2057
+    },
+    "Bhayli": {
+     "listings": 22,
+     "median_ppsf": 2284
+    },
+    "Diwalipura": {
+     "listings": 6,
+     "median_ppsf": 3515
+    },
+    "Elora Park": {
+     "listings": 5,
+     "median_ppsf": 3815
+    },
+    "Fatehgunj": {
+     "listings": 5,
+     "median_ppsf": 4024
+    },
+    "Gotri": {
+     "listings": 28,
+     "median_ppsf": 2858
+    },
+    "Gotri Road": {
+     "listings": 12,
+     "median_ppsf": 2663
+    },
+    "Harni": {
+     "listings": 19,
+     "median_ppsf": 3200
+    },
+    "Kareli Bagh": {
+     "listings": 13,
+     "median_ppsf": 3291
+    },
+    "Kendranagar": {
+     "listings": 5,
+     "median_ppsf": 2521
+    },
+    "Makarpura": {
+     "listings": 11,
+     "median_ppsf": 2136
+    },
+    "Manjalpur": {
+     "listings": 23,
+     "median_ppsf": 3274
+    },
+    "New Alkapuri": {
+     "listings": 9,
+     "median_ppsf": 2836
+    },
+    "New Karelibaug": {
+     "listings": 5,
+     "median_ppsf": 2462
+    },
+    "Nizampura": {
+     "listings": 8,
+     "median_ppsf": 2951
+    },
+    "Old Padra Road": {
+     "listings": 6,
+     "median_ppsf": 3603
+    },
+    "Pratap Nagar": {
+     "listings": 6,
+     "median_ppsf": 2628
+    },
+    "Sama": {
+     "listings": 5,
+     "median_ppsf": 3703
+    },
+    "Sama Savli Road": {
+     "listings": 13,
+     "median_ppsf": 2782
+    },
+    "Sayajipura": {
+     "listings": 11,
+     "median_ppsf": 2288
+    },
+    "Subhanpura": {
+     "listings": 18,
+     "median_ppsf": 2808
+    },
+    "Sunpharma Road": {
+     "listings": 5,
+     "median_ppsf": 2760
+    },
+    "Tarsali": {
+     "listings": 10,
+     "median_ppsf": 2327
+    },
+    "Vadsar": {
+     "listings": 9,
+     "median_ppsf": 2090
+    },
+    "Vasna Road": {
+     "listings": 5,
+     "median_ppsf": 3582
+    },
+    "Vasna-Bhayli-Road": {
+     "listings": 35,
+     "median_ppsf": 2785
+    },
+    "Vemali": {
+     "listings": 11,
+     "median_ppsf": 2666
+    },
+    "Waghodia": {
+     "listings": 7,
+     "median_ppsf": 2142
+    },
+    "Waghodia Road": {
+     "listings": 17,
+     "median_ppsf": 2588
+    }
+   }
+  },
+  "Valsad": {
+   "listings": 41,
+   "median_ppsf": 2083,
+   "median_price": 2220000,
+   "median_area": 1098,
+   "localities": {
+    "Abrama": {
+     "listings": 5,
+     "median_ppsf": 1925
+    },
+    "Tithal": {
+     "listings": 5,
+     "median_ppsf": 2835
+    },
+    "Umargam": {
+     "listings": 7,
+     "median_ppsf": 2000
+    }
+   }
+  },
+  "Vapi": {
+   "listings": 37,
+   "median_ppsf": 2353,
+   "median_price": 2000000,
+   "median_area": 921,
+   "localities": {
+    "Chala": {
+     "listings": 9,
+     "median_ppsf": 2753
+    },
+    "Chharwada": {
+     "listings": 5,
+     "median_ppsf": 2230
+    },
+    "Gunjan": {
+     "listings": 5,
+     "median_ppsf": 2796
+    }
+   }
+  },
+  "Varanasi": {
+   "listings": 41,
+   "median_ppsf": 4800,
+   "median_price": 5300000,
+   "median_area": 1075,
+   "localities": {}
+  },
+  "Vijayawada": {
+   "listings": 77,
+   "median_ppsf": 3750,
+   "median_price": 4500000,
+   "median_area": 1200,
+   "localities": {
+    "Gannavaram": {
+     "listings": 5,
+     "median_ppsf": 2494
+    },
+    "Gollapudi": {
+     "listings": 6,
+     "median_ppsf": 3723
+    }
+   }
+  },
+  "Visakhapatnam": {
+   "listings": 174,
+   "median_ppsf": 3600,
+   "median_price": 4300000,
+   "median_area": 1138,
+   "localities": {
+    "Gajuwaka": {
+     "listings": 17,
+     "median_ppsf": 2988
+    },
+    "Kommadi": {
+     "listings": 8,
+     "median_ppsf": 3355
+    },
+    "Madhurawada": {
+     "listings": 29,
+     "median_ppsf": 3525
+    },
+    "Pedagantyada": {
+     "listings": 6,
+     "median_ppsf": 3000
+    },
+    "Pothinamallayya Palem": {
+     "listings": 6,
+     "median_ppsf": 3600
+    },
+    "Seethammadhara": {
+     "listings": 5,
+     "median_ppsf": 6915
+    },
+    "Sujatha Nagar": {
+     "listings": 7,
+     "median_ppsf": 3392
+    },
+    "Yendada": {
+     "listings": 7,
+     "median_ppsf": 4400
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+  "dataset": {
+    "rows": 27922,
+    "cities": 251,
+    "named_localities": 1135
+  },
+  "evaluation": "5-fold cross-validation",
+  "chosen": "Gradient boosting (chosen)",
+  "baseline": "Linear regression (area, bedrooms)",
+  "models": {
+    "Linear regression (area, bedrooms)": {
+      "r2": 0.3395004100525354,
+      "r2_log": -0.26466214967187673,
+      "mae_lakh": 55.314269041894555,
+      "median_error_pct": 55.39729748287674,
+      "within_10_pct": 10.010044685801358,
+      "within_20_pct": 19.604617874833583,
+      "r2_std": 0.023605174007812053,
+      "fit_seconds": 0.0
+    },
+    "Linear regression (+ city, status)": {
+      "r2": 0.5553706336216476,
+      "r2_log": -1.2663819268823875,
+      "mae_lakh": 42.753888859560625,
+      "median_error_pct": 42.1517202372864,
+      "within_10_pct": 13.956740450397993,
+      "within_20_pct": 26.65283339276049,
+      "r2_std": 0.013464862190497804,
+      "fit_seconds": 0.1
+    },
+    "Ridge regression (per sq ft, + locality)": {
+      "r2": 0.7632105581678459,
+      "r2_log": 0.853201257614784,
+      "mae_lakh": 22.740203219019065,
+      "median_error_pct": 16.138846542163236,
+      "within_10_pct": 32.98833795497046,
+      "within_20_pct": 58.70284647528557,
+      "r2_std": 0.03297519191211794,
+      "fit_seconds": 0.3
+    },
+    "Random forest": {
+      "r2": 0.8343404965808311,
+      "r2_log": 0.8738993426439169,
+      "mae_lakh": 19.544452308090115,
+      "median_error_pct": 13.602791725595136,
+      "within_10_pct": 39.27727001049167,
+      "within_20_pct": 64.86996290719358,
+      "r2_std": 0.027286129484436848,
+      "fit_seconds": 7.9
+    },
+    "Gradient boosting (chosen)": {
+      "r2": 0.8137274674901276,
+      "r2_log": 0.8754859001054565,
+      "mae_lakh": 20.39561998892875,
+      "median_error_pct": 14.462830353382074,
+      "within_10_pct": 36.73808400007182,
+      "within_20_pct": 63.51621720069876,
+      "r2_std": 0.026317491240737505,
+      "fit_seconds": 2.4
+    }
+  },
+  "by_locality_type": {
+    "listed": {
+      "r2": 0.8711846057427238,
+      "r2_log": 0.9157333628031149,
+      "mae_lakh": 18.003588966309728,
+      "median_error_pct": 12.548398407280978,
+      "within_10_pct": 41.511956037427595,
+      "within_20_pct": 69.80048517253329,
+      "share_pct": 72.34080653248334
+    },
+    "other": {
+      "r2": 0.6759254983486032,
+      "r2_log": 0.7590633223348663,
+      "mae_lakh": 26.65199591109764,
+      "median_error_pct": 21.639365552219527,
+      "within_10_pct": 24.252233587983945,
+      "within_20_pct": 47.08015020069921,
+      "share_pct": 27.65919346751665
+    }
+  },
+  "interval": {
+    "coverage": 0.8,
+    "listed": {
+      "low": -0.26055365750184806,
+      "high": 0.26021722540900144
+    },
+    "other": {
+      "low": -0.43748289550120395,
+      "high": 0.47015777318508617
+    },
+    "held_out_coverage_pct": 82.57833482542524
+  },
+  "sklearn_version": "1.9.1"
+}
